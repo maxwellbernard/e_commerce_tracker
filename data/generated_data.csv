@@ -1,0 +1,1001 @@
+order_id,order_date,total_price,quantity,product_name,category,rating,review_date,shipment_date,carrier,delivery_date,shipment_status,payment_method
+7cca326d-c457-41ac-b167-78bb4ad235bc,2024-04-26,343.81,2,Shampoo,beauty,0.2,2024-04-26,2024-06-05,DHL,2024-06-05,delivered,Debit Card
+bde8f90c-5e06-46e9-88fc-c5c2a3099400,2024-01-28,23.58,3,Bluetooth Speaker,electronics,4.0,2024-02-16,2024-07-27,UPS,2024-08-02,delivered,Debit Card
+93fb5741-baa7-4b15-b480-12f10ee98249,2024-02-05,317.31,2,Cycling Helmet,sports,,,2024-04-04,FedEx,2024-04-04,pending,Credit Card
+dee870bc-0699-4645-827b-796e25d10a98,2024-01-14,320.93,3,Basketball,sports,,,2024-05-18,UPS,2024-05-22,pending,Debit Card
+28cda9f8-88e0-4c00-b327-8294c47d9586,2024-09-29,469.97,1,T-shirt,fashion,,,2024-10-09,FedEx,2024-10-09,shipped,PayPal
+eb20db61-a70f-4be8-91dc-a201182189bf,2023-01-24,404.76,1,Jacket,fashion,1.4,2023-02-15,2023-08-08,FedEx,2023-08-22,delivered,Debit Card
+22c5f5ff-600e-43fd-a8e4-2842fb2fd449,2023-05-14,100.92,2,Lamp,home,2.4,2023-05-19,2024-09-06,FedEx,2024-09-10,delivered,Credit Card
+7876b0c2-e80f-47c8-a4db-3dc18621dcab,2023-07-20,222.27,2,Makeup Brush,beauty,3.3,2023-08-02,2024-07-11,UPS,2024-07-25,delivered,PayPal
+3b0b26b5-c5bf-404f-8d7a-9484fdcee892,2024-07-15,71.46,2,Toaster,home,2.8,2024-07-28,2024-12-07,DHL,2024-12-07,delivered,Debit Card
+9faee51e-94a6-483a-9b00-3079a3946dba,2023-07-01,343.89,4,Air Conditioner,home,,,2024-12-10,FedEx,2024-12-24,pending,Credit Card
+18ca15e9-0682-42de-ac6e-eed7092724dd,2024-09-06,141.56,3,Conditioner,beauty,,,2024-11-12,FedEx,2024-11-19,pending,Credit Card
+96951fb5-749c-438d-8085-d384bdd6fdbc,2023-01-24,79.9,1,Yoga Mat,sports,,,2023-07-28,DHL,2023-07-30,shipped,Credit Card
+11bd8f74-a18d-4b77-992c-9bad0c1f3ce3,2023-04-24,424.44,2,Laptop,electronics,,,2024-11-03,UPS,2024-11-17,shipped,Credit Card
+ff316a48-5c2b-4031-b26d-d455031919ab,2023-01-23,209.19,4,Sweater,fashion,4.7,2023-02-17,2023-12-09,UPS,2023-12-12,delivered,Credit Card
+0cfba9b8-68f1-4408-8ebb-a42295493de6,2023-11-27,114.28,5,Lamp,home,,,2024-01-07,DHL,2024-01-17,pending,Credit Card
+13ce69f7-43bf-4966-9e1d-0b65e7221d04,2023-09-08,466.87,5,Yoga Mat,sports,,,2024-06-28,UPS,2024-07-03,shipped,Credit Card
+22fa0ed0-5887-45ee-bf6a-4e7da2e01168,2023-11-12,462.09,2,Cycling Helmet,sports,,,2024-08-07,FedEx,2024-08-19,shipped,Debit Card
+89845af3-f70e-42fa-87ae-504639b82c04,2024-09-29,226.59,1,Dining Table,home,,,2024-12-04,DHL,2024-12-14,shipped,Credit Card
+00a7b54a-0c5b-44c6-b4f4-92a5416a7f3d,2023-10-15,493.87,2,Shirt,fashion,2.3,2023-11-06,2024-02-09,UPS,2024-02-10,delivered,Credit Card
+405be26b-bd90-4f12-9d8b-acb60fcbc470,2023-04-22,96.25,2,Bookshelf,home,4.3,2023-04-26,2024-01-03,FedEx,2024-01-15,delivered,PayPal
+c9a2b623-f660-48e4-a5c4-5bdd9bc875d0,2023-10-11,166.97,1,Smartphone,electronics,2.7,2023-10-21,2024-12-14,UPS,2024-12-25,delivered,PayPal
+3b7a19a0-185e-4216-999c-07abe0d7dca1,2024-01-06,415.09,3,Perfume,beauty,,,2024-11-18,DHL,2024-11-24,pending,Credit Card
+f3985f17-3ae7-4172-880e-12b95e965e2e,2024-06-13,266.02,3,Laptop,electronics,,,2024-09-15,FedEx,2024-09-17,pending,Credit Card
+4b75dc81-c7f3-4d8d-87db-c41f5928f3cb,2023-07-08,100.95,4,Chair,home,,,2024-08-31,DHL,2024-09-14,pending,PayPal
+c1b297e7-ad77-4011-8602-3f069bf22bb9,2023-10-10,384.92,3,Bluetooth Speaker,electronics,,,2024-05-28,UPS,2024-06-12,shipped,Credit Card
+9e9ae626-e5a4-4581-89d0-3fda951dd526,2024-03-07,316.73,4,Hair Dryer,beauty,,,2024-04-01,UPS,2024-04-01,shipped,Debit Card
+8c8b5db2-8e60-4852-8db4-30ed710593a4,2024-07-13,494.01,5,Jeans,fashion,,,2024-09-24,FedEx,2024-10-04,pending,Credit Card
+c8273c67-8ec3-455b-9b34-4213309560e6,2023-11-15,417.7,1,Desk,home,2.1,2023-11-24,2023-11-22,FedEx,2023-12-03,delivered,Debit Card
+45956fd0-fbcb-4758-8222-fa4dcd7d6f4e,2023-08-16,350.5,1,Curtains,home,2.9,2023-08-25,2023-09-03,DHL,2023-09-10,delivered,PayPal
+4b8de828-65a0-46fd-b7d6-b0ae6f059de9,2024-07-23,451.97,3,Tennis Racket,sports,,,2024-11-14,UPS,2024-11-14,shipped,PayPal
+ddbef8ed-d91e-46c1-984e-aeab6384a59e,2023-02-17,477.22,2,Headphones,electronics,,,2024-01-07,UPS,2024-01-21,pending,PayPal
+9ed6031c-9a5f-4c4f-ac93-9a8ff0363779,2024-03-03,325.46,4,Curtains,home,,,2024-11-22,FedEx,2024-12-04,pending,Credit Card
+eb01c984-8445-4b29-98dd-9c66b7aeac8f,2023-09-26,233.98,2,Camera,electronics,,,2024-01-31,DHL,2024-02-02,shipped,PayPal
+09fefb09-8b9f-427b-82e9-3c8b23e4780d,2023-03-04,307.43,2,Jacket,fashion,0.7,2023-03-22,2024-09-21,DHL,2024-09-22,delivered,Credit Card
+b112bf11-2c54-4709-8fd1-417d3f970eda,2023-01-01,335.68,1,Conditioner,beauty,,,2023-06-28,UPS,2023-07-10,pending,Credit Card
+21045eb0-d70f-4420-b435-aef8ca943122,2023-01-01,302.5,4,Scarf,fashion,3.3,2023-01-15,2023-08-29,DHL,2023-09-05,delivered,Credit Card
+ae438d95-9d69-4084-b717-a5c4bee13cb1,2023-07-02,417.53,4,Hair Dryer,beauty,2.5,2023-07-21,2024-03-01,FedEx,2024-03-11,delivered,PayPal
+ee662df0-512d-4d3e-992f-c9724a6b1a14,2023-06-23,213.54,1,Dining Table,home,,,2023-10-05,UPS,2023-10-07,shipped,Credit Card
+5071e0c6-364c-4819-828b-b19dc5e6d351,2024-06-06,160.08,5,Headphones,electronics,,,2024-09-08,UPS,2024-09-18,shipped,PayPal
+5852ca74-2001-477c-af29-ccdbf6526a91,2024-01-12,341.57,4,Baseball Bat,sports,3.8,2024-01-28,2024-05-29,UPS,2024-06-05,delivered,Debit Card
+4b7450f4-bd39-442e-a2a1-70aea61484ab,2023-08-14,169.91,2,Chair,home,,,2023-10-08,DHL,2023-10-09,shipped,Credit Card
+63b9ee58-31d8-4de8-abb7-2bb4503648a7,2023-08-30,45.06,4,Dining Table,home,2.1,2023-09-26,2024-11-22,FedEx,2024-12-04,delivered,Credit Card
+0ea25e5e-d4c1-4571-abad-f736948fbcc2,2023-06-03,125.14,1,Coffee Table,home,,,2023-08-01,UPS,2023-08-13,pending,Credit Card
+d5cf1084-0628-4ba6-86d7-1eb7bdd2e488,2024-02-19,260.97,3,Golf Club,sports,3.1,2024-02-26,2024-07-27,UPS,2024-07-29,delivered,PayPal
+da739b8f-a36f-405c-a4dc-518550a7c9f4,2023-07-10,247.44,1,Game Console,electronics,3.3,2023-07-11,2024-05-19,DHL,2024-05-27,delivered,PayPal
+dbe6e069-41a2-4125-8990-b62a827ab01e,2023-11-21,409.43,1,Curtains,home,,,2024-04-09,UPS,2024-04-23,shipped,Debit Card
+b3eb886d-3a7e-49f3-ab80-284a1f2e1060,2023-08-26,464.71,1,Running Shoes,sports,,,2024-01-29,UPS,2024-02-03,shipped,PayPal
+7d7a6ab1-4caf-40d9-a40e-a87e272acacd,2024-06-12,264.11,3,Hair Dryer,beauty,,,2024-07-22,FedEx,2024-07-25,pending,Debit Card
+ed021458-67d9-4a99-8b47-95410a0f0452,2023-02-11,53.84,3,Tennis Racket,sports,4.5,2023-02-23,2024-07-10,FedEx,2024-07-13,delivered,Debit Card
+845c017d-4c7d-4aa8-8b67-6ec1688f7988,2024-08-15,340.4,1,Bookshelf,home,,,2024-09-18,DHL,2024-10-01,pending,PayPal
+f2054dba-497e-4664-a1b1-1e0819c235ed,2023-11-05,94.04,5,Dining Table,home,,,2024-01-22,FedEx,2024-01-27,shipped,Credit Card
+4f50ea36-942f-4d93-972f-a6c0705cff70,2024-09-10,383.81,5,TV,electronics,,,2024-09-10,UPS,2024-09-18,pending,PayPal
+441e8c8b-0e2b-4197-a42c-ab6e1c0b2de1,2023-07-01,82.23,2,Sneakers,fashion,1.2,2023-07-30,2024-09-03,FedEx,2024-09-09,delivered,PayPal
+49f30edd-165c-4796-8eba-a8f9a6edb806,2024-05-01,78.02,1,Perfume,beauty,,,2024-10-15,DHL,2024-10-23,pending,PayPal
+05ebea68-0418-400d-8a8d-98dac7b6e89c,2024-02-26,379.22,1,Lipstick,beauty,0.6,2024-03-19,2024-12-05,UPS,2024-12-05,delivered,PayPal
+f98d5e6e-642f-4773-8cf5-1c7be1a42d8d,2023-11-18,359.33,4,Smartphone,electronics,,,2024-10-28,DHL,2024-11-07,shipped,Debit Card
+ba64395d-da82-468c-a120-293d7d437cc3,2023-08-21,344.84,1,Soccer Ball,sports,,,2024-08-10,FedEx,2024-08-13,pending,Debit Card
+57e03a16-166f-4ecb-a9d4-7db51730b6e3,2023-04-19,379.67,1,Coffee Table,home,,,2024-06-17,UPS,2024-06-29,pending,Debit Card
+708eeb95-6cfc-4594-9df5-ac36cdbd96fc,2023-09-01,308.48,2,Coffee Table,home,,,2024-10-31,DHL,2024-11-12,shipped,Credit Card
+5a5d3927-8610-419c-986d-2a0f723a73ff,2023-10-02,54.29,2,Air Conditioner,home,,,2023-10-11,DHL,2023-10-25,pending,PayPal
+571e298d-9074-4af4-a1c5-87c46be084fb,2023-05-30,85.25,3,Smartphone,electronics,,,2024-03-02,DHL,2024-03-04,shipped,Credit Card
+7ec54480-47d9-4caf-a67b-bc97db71dba2,2023-01-13,139.26,2,Smartphone,electronics,,,2024-06-03,UPS,2024-06-04,pending,Credit Card
+32a4d961-f817-4614-bae0-c50280ddb85f,2023-09-13,229.15,1,Bluetooth Speaker,electronics,1.6,2023-10-06,2024-03-16,UPS,2024-03-25,delivered,Debit Card
+3e02a741-ae56-4b3e-a4b1-75cdb25c1763,2024-05-02,309.71,4,Conditioner,beauty,,,2024-09-05,FedEx,2024-09-14,pending,Debit Card
+712fd018-40a7-4c0c-a7c9-4db44f254257,2023-06-18,331.51,3,Dumbbells,sports,,,2024-04-21,FedEx,2024-05-06,pending,Credit Card
+cf19c94f-6bd3-46dd-97f8-b23018ad844d,2024-09-27,76.28,5,Dress,fashion,1.8,2024-10-01,2024-10-11,DHL,2024-10-14,delivered,Credit Card
+ff4c4c6e-cd82-4735-9eea-e3b10fa6144b,2023-07-05,367.1,3,Mascara,beauty,,,2023-09-16,UPS,2023-09-27,pending,Credit Card
+6a43a3ff-f77b-42c9-b8aa-52d8a9ec1459,2023-11-03,339.44,4,Smartwatch,electronics,,,2024-11-10,DHL,2024-11-18,shipped,Debit Card
+fad6f5f6-368a-48ff-8df1-9009d2a8ebe0,2024-07-28,455.53,2,Running Shoes,sports,,,2024-08-17,DHL,2024-08-17,pending,PayPal
+bac023fc-8d6b-4891-868c-70156f5fb1f4,2023-12-21,290.21,3,Jeans,fashion,,,2024-05-30,DHL,2024-06-03,shipped,PayPal
+08b5b899-634e-4181-8745-36a3903fe891,2024-07-22,39.15,2,Cycling Helmet,sports,,,2024-07-25,UPS,2024-07-28,shipped,PayPal
+ad78cc4c-92a2-4127-8ab7-5588cea97a41,2023-07-13,250.65,1,Lamp,home,,,2023-10-29,DHL,2023-11-10,pending,Credit Card
+fafbdcd2-133f-470b-b2d2-99eaadd30014,2024-06-11,322.22,1,Hair Dryer,beauty,,,2024-11-13,UPS,2024-11-14,shipped,PayPal
+68729577-8f70-4462-a285-7ee8fb212bf7,2024-09-09,33.23,3,Sneakers,fashion,3.3,2024-09-23,2024-09-24,UPS,2024-09-27,delivered,Debit Card
+be293856-86ef-4176-96fa-4e26eaee42ee,2024-02-04,358.61,1,TV,electronics,,,2024-08-18,UPS,2024-08-29,shipped,Debit Card
+c8805aee-c714-4edc-85f6-5469c766a5d0,2023-12-27,276.02,2,Dumbbells,sports,,,2024-12-02,FedEx,2024-12-05,pending,PayPal
+fca916c6-a187-466a-970d-90e52ff1f5c8,2023-11-07,204.41,4,Bookshelf,home,0.5,2023-11-29,2024-12-04,DHL,2024-12-10,delivered,Debit Card
+51a50947-b2da-4ee9-8abf-68111c4cdff3,2023-06-11,426.65,2,Bookshelf,home,,,2024-02-22,DHL,2024-02-26,pending,Credit Card
+1195a71d-c669-4ae5-b8be-3af5333d1f87,2024-04-05,386.11,3,Chair,home,,,2024-05-06,FedEx,2024-05-13,pending,PayPal
+22999759-c779-4626-b29c-941b6fbf7c72,2023-04-22,72.89,1,Printer,electronics,,,2024-08-28,DHL,2024-09-11,pending,PayPal
+c854a10b-5098-4859-8a00-cab30050edae,2023-04-23,491.08,5,Lipstick,beauty,,,2024-03-19,DHL,2024-03-25,pending,Credit Card
+fafd6a64-841e-4159-b91a-bdc5b06dd06e,2023-08-08,137.16,4,Bookshelf,home,,,2024-11-18,DHL,2024-12-02,pending,Credit Card
+d548444b-9fdd-4a0a-a8f2-6b6a99a1f60e,2023-09-01,62.67,2,Lipstick,beauty,4.6,2023-09-27,2023-11-07,FedEx,2023-11-18,delivered,PayPal
+3db07e17-b059-4a52-ad9a-32559718004f,2023-11-26,473.01,1,Desk,home,,,2024-04-18,UPS,2024-04-18,shipped,Credit Card
+48008b69-6df3-46bc-84fa-414d133cd36b,2023-05-02,129.63,4,Yoga Mat,sports,1.7,2023-05-02,2023-11-29,UPS,2023-12-03,delivered,Credit Card
+08c81193-4481-4d62-ad81-8cbc51b1b3f7,2023-07-08,286.37,4,Curtains,home,,,2024-03-27,UPS,2024-04-05,pending,PayPal
+1606e986-d665-45b3-bf9d-36a38f295042,2024-07-04,161.82,2,Perfume,beauty,,,2024-09-25,UPS,2024-09-30,pending,Credit Card
+6eaf2030-106d-4efa-aac3-09ca724bcc83,2023-08-19,360.81,3,Basketball,sports,,,2024-02-20,UPS,2024-02-21,shipped,PayPal
+a99da13e-a69a-4e96-acaf-a08b4d1805e6,2023-04-01,184.74,3,Lipstick,beauty,0.2,2023-04-19,2023-09-19,FedEx,2023-09-19,delivered,Debit Card
+b04c150e-69f3-4ab1-8553-2fa29912fe0f,2024-04-21,167.11,5,Shirt,fashion,,,2024-05-06,UPS,2024-05-15,pending,PayPal
+97d4f07e-1822-410f-b6f3-a0185d3acc93,2023-01-08,172.56,4,Hair Dryer,beauty,,,2023-07-10,UPS,2023-07-22,shipped,Credit Card
+c27032e6-ab78-46fb-a05a-d1bea944b864,2023-09-29,497.85,2,Running Shoes,sports,1.0,2023-10-21,2024-05-25,UPS,2024-05-27,delivered,Debit Card
+51c0fe9d-3b42-46a8-a89a-a9d3b6bf68c8,2024-02-11,74.27,4,Printer,electronics,,,2024-02-26,UPS,2024-02-27,shipped,PayPal
+b5dc40b0-e94a-4212-967e-0d8385900303,2024-06-28,107.23,5,Chair,home,1.8,2024-07-18,2024-07-08,FedEx,2024-07-18,delivered,Credit Card
+5bc56b75-3927-4260-8136-dc1753b7dd29,2023-12-11,421.8,3,Tennis Racket,sports,4.1,2023-12-21,2024-06-28,FedEx,2024-07-07,delivered,PayPal
+bcb3fa20-22b1-42c8-973a-b6238b623aed,2023-09-06,358.76,3,Bookshelf,home,,,2024-01-22,UPS,2024-01-31,shipped,PayPal
+b411d50c-926b-4194-9544-4bb7063e7dbf,2023-07-28,427.28,2,Baseball Bat,sports,,,2023-08-31,DHL,2023-09-09,shipped,Debit Card
+7ace49db-33f3-49f3-81f0-bc463de3251f,2023-10-03,23.68,4,Game Console,electronics,,,2024-01-15,FedEx,2024-01-18,pending,Debit Card
+79cb7e9b-8500-4c3e-8913-38b80c11b457,2024-09-14,87.06,1,Yoga Mat,sports,,,2024-11-22,FedEx,2024-11-28,shipped,Debit Card
+ee13d624-f8bb-4a53-977e-a0750c4ec4b8,2023-11-02,109.61,2,Shampoo,beauty,,,2023-11-21,FedEx,2023-12-02,pending,Credit Card
+e66ed35a-cc47-46d5-89cb-9e7b3903916b,2024-06-03,255.2,1,Cycling Helmet,sports,,,2024-07-25,UPS,2024-08-05,pending,Credit Card
+ca6beaa1-686a-463a-b1cb-ea242b3e5723,2023-02-02,280.52,2,Shampoo,beauty,,,2024-06-19,FedEx,2024-07-01,shipped,Debit Card
+c29cd449-eb97-425b-98f7-7478cb46e39e,2023-11-13,124.39,4,Scarf,fashion,,,2024-10-19,UPS,2024-10-29,pending,PayPal
+55c2fba3-f625-4f25-9fbc-182f84f2bfd8,2024-06-04,71.65,2,Cycling Helmet,sports,2.6,2024-06-20,2024-06-29,DHL,2024-07-10,delivered,PayPal
+d8d05ad7-cd6a-412f-a303-3236c54688fd,2023-08-25,462.75,5,Desk,home,1.0,2023-08-27,2024-04-01,UPS,2024-04-04,delivered,Credit Card
+bab9b104-8b8c-40a8-982d-49eb82f0255d,2024-06-16,58.25,3,Jacket,fashion,,,2024-08-19,UPS,2024-08-23,pending,Credit Card
+f243383f-dc7f-498b-82f3-4d5b58a5651b,2023-04-20,419.64,2,Body Lotion,beauty,,,2023-12-11,UPS,2023-12-12,shipped,PayPal
+69e0c3fd-5a98-47ce-bd5c-92774966e26f,2023-09-03,114.18,3,Baseball Bat,sports,2.2,2023-09-29,2024-12-15,FedEx,2024-12-17,delivered,Debit Card
+b68a7520-1796-4934-bd3f-8b67a6f61c7b,2024-05-11,444.93,2,Tennis Racket,sports,,,2024-08-05,UPS,2024-08-09,shipped,Debit Card
+93a4e564-7c57-4dd5-b155-c64a82ef4523,2023-05-16,479.64,3,Desk,home,,,2023-07-28,FedEx,2023-08-05,pending,PayPal
+5833d94b-f9d7-4018-b8b9-7e9e38b7d924,2023-11-20,64.14,4,Printer,electronics,,,2024-01-28,DHL,2024-02-01,pending,PayPal
+94ec1f4a-34ea-4265-9e05-7ef4934a1702,2023-08-27,495.98,1,Toaster,home,,,2024-01-15,UPS,2024-01-21,pending,PayPal
+ec74036f-b999-475d-b63a-bb152bd0371e,2023-06-26,451.39,2,Curtains,home,,,2023-11-09,UPS,2023-11-22,pending,Credit Card
+54983e37-7390-4bda-8405-b3796f936dd6,2024-07-23,420.31,1,Air Conditioner,home,,,2024-07-24,UPS,2024-07-27,shipped,PayPal
+e59fcbbf-0a95-432d-b440-b1fecb1b9f88,2023-04-10,27.39,4,Hair Dryer,beauty,,,2023-12-26,FedEx,2023-12-26,pending,Credit Card
+1108dec0-01fb-4e7e-9988-8208b4474464,2024-06-24,380.83,4,Cycling Helmet,sports,,,2024-10-13,FedEx,2024-10-15,pending,Credit Card
+eac31143-c73d-4ae4-a4ce-798be3ff6c3d,2023-09-04,348.69,3,Sweater,fashion,2.7,2023-09-15,2024-01-29,UPS,2024-01-30,delivered,Debit Card
+603e72a5-04fe-4431-9aee-8b8fb847e2fd,2023-02-16,385.37,5,Sneakers,fashion,2.6,2023-02-26,2023-05-10,DHL,2023-05-21,delivered,Debit Card
+7b7b90ff-3e8b-43e2-8c98-09cd49ee6d36,2024-05-06,300.95,4,Jacket,fashion,1.5,2024-05-28,2024-07-02,DHL,2024-07-08,delivered,Debit Card
+83c226a8-8776-49a3-b27a-410c6d62b8eb,2023-01-02,454.64,2,Dress,fashion,,,2023-08-28,DHL,2023-09-10,shipped,PayPal
+e41764a1-e69a-4763-a3bd-b11372ad36aa,2023-04-16,400.73,2,Bluetooth Speaker,electronics,,,2023-09-13,UPS,2023-09-20,pending,Debit Card
+01654f74-8446-4908-86de-afee62d59520,2023-08-07,133.7,1,Bluetooth Speaker,electronics,0.4,2023-08-09,2024-03-23,UPS,2024-04-06,delivered,Credit Card
+bceffd0e-9661-4c51-a689-591fe101ce78,2023-07-08,80.8,4,Tablet,electronics,1.0,2023-07-15,2023-12-27,UPS,2023-12-29,delivered,PayPal
+8a0693f7-5fd9-4b2a-b504-301217e620ba,2023-08-09,439.25,5,Sneakers,fashion,,,2024-02-04,UPS,2024-02-14,shipped,Debit Card
+bfab53e5-f42a-4d3c-bf49-c38d1aa938af,2024-09-30,452.53,3,Jacket,fashion,,,2024-11-01,UPS,2024-11-04,pending,Credit Card
+9edcfc76-3409-48fd-90a2-9e1666acc2fb,2023-12-04,297.97,4,Face Cream,beauty,,,2023-12-22,UPS,2023-12-28,pending,Credit Card
+79d5c367-42ac-4896-9ffb-48e2f134b0c8,2024-08-19,464.26,4,Scarf,fashion,,,2024-09-02,UPS,2024-09-16,shipped,PayPal
+880bf4b2-4717-4435-ae18-083d9c180227,2023-04-09,167.82,4,Chair,home,,,2024-04-05,FedEx,2024-04-18,pending,Debit Card
+b6e213bf-8331-48dd-8ee4-7b9e5aa698f6,2024-01-13,448.64,3,Sneakers,fashion,,,2024-10-14,DHL,2024-10-19,shipped,Debit Card
+8fb28be3-671c-4bdf-9a38-a7f7ab73ecbe,2024-05-15,231.75,2,Headphones,electronics,,,2024-08-04,FedEx,2024-08-05,shipped,Credit Card
+e7fbf088-f50c-4936-9142-e368f3ff67e7,2023-01-20,206.67,1,Smartwatch,electronics,1.7,2023-01-29,2024-07-25,UPS,2024-08-08,delivered,Credit Card
+4e7d9757-4d43-4767-8ce7-b9608f3d239b,2023-10-12,35.75,4,Air Conditioner,home,,,2024-07-26,UPS,2024-08-03,pending,Debit Card
+0e34ecf9-4fb9-4d2a-bd22-ce246ff92df6,2023-05-30,84.48,3,Hair Dryer,beauty,,,2024-04-20,DHL,2024-04-27,shipped,Credit Card
+fc1403b6-4f2d-4e69-95a4-454ee3762500,2023-10-15,127.73,1,Bluetooth Speaker,electronics,0.9,2023-10-21,2023-11-09,UPS,2023-11-12,delivered,PayPal
+1eccc149-cd29-4efa-8f8f-a43a17dc5acf,2023-11-22,384.72,4,Smartphone,electronics,4.4,2023-12-15,2024-05-06,FedEx,2024-05-18,delivered,Debit Card
+f562f821-578f-4f87-9896-b37b115442e2,2024-09-22,98.33,3,Conditioner,beauty,2.7,2024-10-18,2024-12-16,UPS,2024-12-18,delivered,PayPal
+51450819-caec-4ff9-ad58-a81e026dcd1e,2024-01-02,254.32,2,Shirt,fashion,3.0,2024-01-24,2024-01-31,UPS,2024-02-12,delivered,PayPal
+5f3c687c-fea3-4604-b709-cca6bcdd0a03,2023-10-27,452.22,5,Soccer Ball,sports,,,2024-01-12,UPS,2024-01-16,pending,Debit Card
+e80a7724-5c41-4e77-9ac1-a98bc7b9a8c8,2023-02-15,338.83,3,Air Conditioner,home,,,2023-05-11,DHL,2023-05-23,shipped,Debit Card
+f1ba2e83-c12a-4269-a310-75f50c205d53,2024-07-12,56.29,4,Toaster,home,,,2024-09-14,DHL,2024-09-21,pending,Debit Card
+a17b0763-ffde-44c5-be42-2b501275cd3e,2024-01-16,291.88,5,Shampoo,beauty,,,2024-04-01,FedEx,2024-04-08,pending,Credit Card
+16f82a78-ad25-49f1-8d85-b5f8bcaaea4e,2024-08-17,258.92,2,Smartwatch,electronics,1.9,2024-09-07,2024-10-09,UPS,2024-10-22,delivered,Debit Card
+0ff025ba-34af-4e7e-8568-87fa565493bf,2023-06-08,83.57,1,Tennis Racket,sports,1.0,2023-07-08,2024-02-23,DHL,2024-03-03,delivered,Credit Card
+ee051469-bacf-494c-8884-7a7911f3263b,2024-09-16,247.78,1,Cycling Helmet,sports,,,2024-11-20,DHL,2024-11-30,pending,Debit Card
+371e1c8f-0af3-46ca-9949-c5ab913ce743,2023-04-15,296.44,1,Coffee Table,home,,,2023-06-29,FedEx,2023-06-30,pending,Debit Card
+d32655ae-75ae-474b-8f6a-b007785f8537,2023-11-14,39.36,5,Laptop,electronics,,,2024-11-30,DHL,2024-12-04,shipped,Debit Card
+320fccdf-4d47-440e-a6d2-e3abe5a3fec4,2023-02-15,189.82,2,Golf Club,sports,,,2024-10-18,FedEx,2024-10-28,pending,Credit Card
+0ec4c65e-33f9-4f86-a766-1754ac21a7ee,2023-05-08,29.83,5,Headphones,electronics,3.3,2023-05-24,2024-09-04,FedEx,2024-09-04,delivered,Credit Card
+18011ee8-6b3e-41ec-b615-85244c25e51c,2024-06-15,361.96,3,Conditioner,beauty,,,2024-07-12,UPS,2024-07-26,pending,Credit Card
+491d0530-6ad8-4380-ba6f-6e1fc2a20eb5,2023-05-30,43.33,1,Cycling Helmet,sports,4.9,2023-06-03,2023-07-16,DHL,2023-07-27,delivered,Debit Card
+610b67ec-1ce4-4056-be99-87112450e6ba,2023-09-04,462.69,1,Coffee Table,home,,,2024-02-10,DHL,2024-02-11,shipped,Credit Card
+325b8bc4-ed49-4fa4-a246-88a8e677b3da,2024-05-13,192.07,2,Air Conditioner,home,1.0,2024-05-13,2024-08-02,UPS,2024-08-11,delivered,PayPal
+b24c6f5f-7c7f-4b0f-ad1a-ace51de3db4c,2023-06-17,160.76,2,Dumbbells,sports,4.4,2023-07-01,2024-02-28,FedEx,2024-03-06,delivered,Credit Card
+7687c471-848d-4056-b8aa-30681414f43c,2023-11-25,269.15,3,T-shirt,fashion,2.5,2023-12-25,2024-05-05,FedEx,2024-05-08,delivered,Credit Card
+66a53167-541f-4e6a-8cab-345b056e1514,2023-04-07,206.17,3,Golf Club,sports,,,2024-10-06,FedEx,2024-10-10,pending,PayPal
+2a304bea-5746-495c-bbf5-d635b9678c65,2023-09-11,426.41,5,Hat,fashion,,,2024-06-28,FedEx,2024-07-11,shipped,Debit Card
+7dd56ebf-da36-4d0b-b8bb-03067c2d3050,2023-12-26,138.47,3,Laptop,electronics,,,2024-04-05,DHL,2024-04-15,shipped,Debit Card
+38911ab8-4e70-4aaf-83e4-2589c93f55b1,2024-06-11,263.5,4,Scarf,fashion,1.3,2024-06-25,2024-07-24,UPS,2024-07-25,delivered,Debit Card
+369f241e-c0fc-4952-bf3b-1979203a70b9,2023-12-24,253.99,4,Body Lotion,beauty,,,2023-12-25,UPS,2023-12-26,shipped,PayPal
+d45fa8b6-b526-4eed-868b-8a2d52f34348,2024-09-26,102.44,2,Hair Dryer,beauty,,,2024-10-24,UPS,2024-11-07,pending,Credit Card
+468ef75d-dd7b-4de1-b04b-eda2eb90ff4a,2023-08-09,395.79,4,Basketball,sports,,,2023-09-24,FedEx,2023-10-01,pending,Debit Card
+f1a5ec49-0650-45e3-ba9a-e84f2c179201,2024-06-27,90.64,4,Bookshelf,home,,,2024-07-17,FedEx,2024-07-26,shipped,Credit Card
+26dfecd4-0ca8-43a7-9a4c-f4a7b603679d,2024-04-17,66.89,5,Hat,fashion,,,2024-05-28,UPS,2024-05-29,pending,PayPal
+f28e2a6c-0db7-456d-b735-88356eec14ae,2023-11-10,70.26,1,Soccer Ball,sports,4.1,2023-12-08,2024-03-15,DHL,2024-03-21,delivered,Credit Card
+f7e68a19-b3ba-4c90-89df-9b8f943da742,2024-01-12,121.7,5,T-shirt,fashion,0.8,2024-01-25,2024-05-20,FedEx,2024-05-25,delivered,Debit Card
+e3563e4e-32c0-4808-a103-7ed8059b9a52,2024-09-01,168.94,2,Soccer Ball,sports,2.2,2024-09-02,2024-12-13,UPS,2024-12-16,delivered,Debit Card
+425b6bf2-8eba-4a47-98fb-30c17fe3ee01,2023-09-13,147.41,1,Chair,home,,,2023-09-19,FedEx,2023-09-24,pending,Debit Card
+27f6dcdf-25e0-4a7e-80f3-498495e2f55a,2024-04-23,20.97,5,TV,electronics,,,2024-10-06,UPS,2024-10-08,shipped,Credit Card
+044fc90f-bd44-446d-8709-221742c056b6,2024-04-14,269.33,3,Dress,fashion,4.5,2024-05-03,2024-11-02,UPS,2024-11-05,delivered,PayPal
+5e971584-8b52-442d-96d7-b69aa2d09e81,2024-09-16,335.53,1,Game Console,electronics,2.3,2024-09-26,2024-10-07,UPS,2024-10-20,delivered,Debit Card
+17a45e88-a3a1-4273-94e7-801d0656f462,2023-08-31,375.87,3,Camera,electronics,1.9,2023-09-29,2023-09-15,UPS,2023-09-16,delivered,Debit Card
+ba9efa73-86e3-44e2-b267-1cdc0d340952,2024-04-07,143.86,4,Tennis Racket,sports,,,2024-09-29,DHL,2024-10-12,pending,Debit Card
+be6372ef-e72b-4cb6-8969-4c7d0c5b3b26,2023-01-28,494.09,1,Perfume,beauty,,,2024-10-15,UPS,2024-10-16,pending,Credit Card
+c3ae673d-e66f-4aa1-8d34-fbbac5a03046,2024-06-07,371.18,1,Shampoo,beauty,,,2024-06-16,DHL,2024-07-01,shipped,Credit Card
+bccbd33e-bf0a-4250-b677-8f7b351d76f6,2024-06-13,101.44,2,Laptop,electronics,1.8,2024-06-30,2024-12-10,FedEx,2024-12-22,delivered,Debit Card
+3c4918f9-5af3-4ce3-bc36-aef6f7cab7f3,2024-09-20,283.27,1,Bookshelf,home,,,2024-11-17,DHL,2024-11-24,shipped,PayPal
+dd43ca1b-547c-44eb-a3c4-2a78b4b970ea,2024-06-15,445.19,4,Game Console,electronics,,,2024-06-30,DHL,2024-07-12,shipped,Debit Card
+96f31965-7ef0-416e-ab35-9e4805d51426,2023-08-28,372.29,3,Hat,fashion,0.2,2023-09-11,2024-09-04,UPS,2024-09-17,delivered,Credit Card
+278dcd5b-de95-4530-bcd7-e00986ba4663,2023-02-11,377.74,1,Jacket,fashion,,,2024-04-04,FedEx,2024-04-19,pending,Debit Card
+dd1bb0ae-5262-4483-8c81-4dd8aa6335d8,2023-12-01,468.83,4,Golf Club,sports,,,2024-06-30,DHL,2024-07-09,pending,PayPal
+bd900458-9317-46b6-a0d1-104ea5f61aed,2023-01-15,24.32,5,Sweater,fashion,,,2024-09-12,UPS,2024-09-16,pending,PayPal
+debaa705-6cf1-42ba-97ca-73b061455610,2023-01-09,127.81,3,Makeup Brush,beauty,3.2,2023-01-28,2023-03-29,UPS,2023-04-01,delivered,Credit Card
+d39bcb8b-d337-4444-b1e4-09aadfd71142,2024-03-13,153.14,1,Lamp,home,,,2024-11-01,UPS,2024-11-03,pending,Credit Card
+c6374bad-689a-4cca-a4aa-bfeb009b859c,2023-03-03,214.21,3,Air Conditioner,home,3.5,2023-03-18,2023-12-03,DHL,2023-12-15,delivered,Credit Card
+2f0c4e88-1a69-4779-be87-3b4d3005bed1,2023-02-27,449.57,4,Mascara,beauty,,,2024-10-04,FedEx,2024-10-19,shipped,PayPal
+79c6fb6c-ece9-4dd1-b251-ab463c6e8018,2023-06-07,278.62,3,Sneakers,fashion,,,2023-06-15,UPS,2023-06-28,pending,Credit Card
+19f4d096-83af-4fa5-bac5-9823811e142b,2023-04-01,241.42,1,Bookshelf,home,1.4,2023-04-27,2023-08-03,FedEx,2023-08-10,delivered,Debit Card
+394b17b4-98af-4000-8b2a-329adccb481f,2024-03-10,277.04,2,Laptop,electronics,3.7,2024-03-20,2024-07-13,DHL,2024-07-20,delivered,Debit Card
+2d2e3839-49c4-4e1b-9c4f-3238e428bf72,2024-02-15,453.93,1,Curtains,home,,,2024-07-23,DHL,2024-08-01,pending,Debit Card
+a2f70d76-6e34-45c2-a454-57d639d78008,2023-01-01,373.69,1,Baseball Bat,sports,,,2023-11-25,DHL,2023-12-08,shipped,PayPal
+43f70fc6-72bf-49bf-9c38-b1a297e32992,2024-08-29,309.62,3,Basketball,sports,4.7,2024-09-02,2024-11-30,DHL,2024-12-01,delivered,Credit Card
+f93c913c-817a-419c-954e-e8d2029803c5,2024-03-28,408.92,1,Headphones,electronics,,,2024-08-15,DHL,2024-08-21,shipped,PayPal
+5b3cabc4-fafa-4985-aa56-0e9ee9a74377,2023-12-05,440.16,4,Desk,home,,,2024-02-07,UPS,2024-02-18,pending,Debit Card
+aa09a3eb-bae6-4185-8e6d-7f23de613f0c,2023-09-23,185.72,5,TV,electronics,1.8,2023-10-03,2024-03-12,UPS,2024-03-21,delivered,PayPal
+9a19f562-a240-49ce-85d5-a29c0f2ebab9,2023-11-01,64.2,1,Printer,electronics,,,2024-05-08,UPS,2024-05-17,shipped,PayPal
+0ade96b2-8991-4972-94f9-bbae65eedcc1,2023-11-12,458.47,5,Baseball Bat,sports,,,2024-09-22,FedEx,2024-09-26,shipped,Credit Card
+3b84c197-5200-4f39-9c33-fdd6758c3098,2023-05-01,152.36,3,Smartwatch,electronics,,,2024-11-23,DHL,2024-12-02,shipped,Credit Card
+b2f0a821-a27d-4430-8e4f-6dee59923b01,2024-06-15,140.54,5,Dumbbells,sports,,,2024-06-25,FedEx,2024-07-06,pending,PayPal
+8ea56834-3e4e-432e-876d-430389dbca08,2023-09-24,439.47,2,Golf Club,sports,,,2024-07-09,FedEx,2024-07-14,pending,Debit Card
+6ea05708-3865-422d-8707-63cbdac17711,2023-10-23,320.46,2,Dress,fashion,,,2024-11-03,UPS,2024-11-03,pending,PayPal
+d4999e6a-8655-497d-adb3-6910341380cc,2024-09-02,300.54,2,Sneakers,fashion,,,2024-11-12,FedEx,2024-11-22,pending,PayPal
+c520e97d-cf61-4dd8-a334-70141ee88fe4,2023-01-27,250.54,4,Coffee Table,home,,,2024-07-17,DHL,2024-07-26,pending,Credit Card
+fe482d34-3c89-4c87-a28f-dd7c914d4312,2023-07-03,195.68,5,Tablet,electronics,,,2024-06-29,FedEx,2024-07-06,pending,Credit Card
+308217ee-05dc-4755-a853-fd7bc2ff3a17,2023-07-20,492.7,2,Sweater,fashion,4.9,2023-08-03,2024-03-23,UPS,2024-04-07,delivered,Debit Card
+90922b24-ec5c-483d-a97c-215069598313,2023-01-01,94.11,2,Desk,home,2.8,2023-01-10,2023-07-23,UPS,2023-07-25,delivered,PayPal
+5d71a086-f4f8-482a-b15f-466f343807a3,2024-01-18,54.04,2,Dumbbells,sports,,,2024-07-07,DHL,2024-07-10,shipped,Credit Card
+b917c998-70c4-4a52-9693-fa4f08b6f89b,2024-02-09,189.79,5,Laptop,electronics,,,2024-11-12,FedEx,2024-11-13,shipped,Credit Card
+830ff27c-4d7e-4dc9-917d-cb7ce161c4e3,2024-04-26,450.38,4,TV,electronics,,,2024-10-07,FedEx,2024-10-15,shipped,Credit Card
+900fa8e0-a1c7-40e5-9176-b1ace1f62d7f,2024-05-31,439.27,4,Headphones,electronics,0.3,2024-06-03,2024-09-16,DHL,2024-09-20,delivered,PayPal
+4969f39b-9317-4119-bc59-ca46e9b8b5a6,2024-06-26,433.65,2,Lamp,home,3.6,2024-07-23,2024-10-12,UPS,2024-10-18,delivered,Debit Card
+f2128e70-9d8c-4fba-8f5e-f7aef8d2f10a,2023-11-14,33.97,5,Perfume,beauty,1.7,2023-11-22,2024-08-23,FedEx,2024-09-07,delivered,Credit Card
+83ada297-3af5-427c-8909-bf5a7c92f676,2024-05-14,465.62,2,Smartwatch,electronics,,,2024-10-04,FedEx,2024-10-16,pending,PayPal
+e45bf353-dc33-4c88-a1b6-1df631ef7c00,2023-07-30,226.98,4,Bookshelf,home,,,2024-08-03,UPS,2024-08-03,shipped,Debit Card
+56ade45c-4ec9-4946-bd9f-854979717094,2024-02-15,107.59,5,Desk,home,0.6,2024-03-03,2024-07-25,DHL,2024-08-09,delivered,Credit Card
+eaa109e7-138c-436d-b764-737f02f365e0,2024-09-26,197.54,3,Printer,electronics,,,2024-11-09,UPS,2024-11-11,shipped,PayPal
+8ae6cfc5-cf10-44ec-92c0-91d185028cfd,2024-07-03,392.16,2,Mascara,beauty,4.0,2024-07-29,2024-09-19,FedEx,2024-09-23,delivered,Debit Card
+22576604-808d-466e-ae0e-2713fe6e0e8e,2024-03-12,355.9,1,Running Shoes,sports,,,2024-05-29,DHL,2024-06-02,pending,Credit Card
+735b51e6-617d-4a30-ae2e-fe91d6ce7ec7,2024-01-08,121.25,4,Dining Table,home,,,2024-07-12,DHL,2024-07-13,shipped,Credit Card
+718de3cd-7868-4197-a0d5-ec0a0b332031,2024-05-09,472.76,4,Desk,home,3.1,2024-06-05,2024-08-28,FedEx,2024-09-04,delivered,Credit Card
+978c32f0-d2cb-40b8-a3d4-95a4ddb98e23,2024-06-17,51.25,2,Air Conditioner,home,3.7,2024-07-09,2024-10-29,UPS,2024-10-29,delivered,Debit Card
+150a5fbc-d2ff-4099-a35f-91855017f717,2023-11-29,352.82,1,Air Conditioner,home,,,2024-09-07,FedEx,2024-09-19,shipped,PayPal
+4d273e65-a2ef-4716-be46-14f2017a8bc1,2023-03-31,39.11,2,Face Cream,beauty,4.9,2023-04-24,2023-07-28,UPS,2023-08-11,delivered,PayPal
+f157da3d-1e5a-40da-aa0b-c419a99e0e3a,2023-02-26,390.29,4,Jacket,fashion,4.4,2023-03-25,2023-03-31,UPS,2023-04-14,delivered,Debit Card
+3e5b35d8-791e-451d-be4f-6178eb4836d4,2023-07-21,179.4,1,Couch,home,1.8,2023-08-13,2024-11-06,DHL,2024-11-08,delivered,Credit Card
+930a4a5c-c8e0-4732-a587-58c0b43ed04d,2023-10-16,235.73,4,Game Console,electronics,,,2024-03-23,DHL,2024-03-28,shipped,Debit Card
+6b086f38-e524-46f3-953b-1b575fbd8428,2023-07-10,201.98,2,Sweater,fashion,,,2023-10-14,UPS,2023-10-28,pending,PayPal
+77efc170-80da-424d-8a1b-0456d4a69476,2023-08-02,125.89,4,Tablet,electronics,,,2024-09-21,UPS,2024-09-26,pending,PayPal
+ac57ecba-17f3-4cdd-9f19-6e5ab8aab495,2023-08-29,218.95,4,Sweater,fashion,,,2024-10-18,DHL,2024-10-23,shipped,Credit Card
+6c011126-fccd-4698-8252-80652474e33e,2023-12-28,452.39,3,Lamp,home,0.9,2024-01-03,2024-01-01,UPS,2024-01-15,delivered,Debit Card
+88c7ff3c-4a3f-45c4-93fe-57dc9ab42ea7,2024-08-10,160.94,2,Game Console,electronics,,,2024-09-27,FedEx,2024-10-12,shipped,Debit Card
+801631f0-d918-4a37-9f2e-489e80705c6e,2024-04-01,284.66,5,Cycling Helmet,sports,3.7,2024-04-21,2024-08-10,UPS,2024-08-23,delivered,Credit Card
+2f0d73d8-5ce8-4ed1-af86-65bf498e3246,2023-04-06,332.66,1,Baseball Bat,sports,,,2024-11-07,FedEx,2024-11-12,pending,Credit Card
+1e02db7d-b626-4794-87e2-fc6218d904de,2024-07-30,91.49,5,Dress,fashion,,,2024-09-09,UPS,2024-09-19,shipped,Credit Card
+b44be1e5-6a4d-4586-86f4-cca64b74808b,2023-07-01,57.49,5,Shampoo,beauty,,,2024-11-23,FedEx,2024-12-02,shipped,PayPal
+99d8b735-fe1d-4ee2-853c-b2ab35015a61,2023-08-04,216.8,5,Sneakers,fashion,,,2023-10-17,DHL,2023-10-28,pending,PayPal
+ac9afb72-3019-4fc8-8825-87603c8e8141,2023-09-12,305.49,5,Smartwatch,electronics,2.9,2023-10-04,2024-09-28,DHL,2024-10-03,delivered,Credit Card
+4778347d-f7c3-435e-ae41-687410e73218,2023-05-09,278.42,3,Bluetooth Speaker,electronics,,,2024-09-30,DHL,2024-10-03,shipped,PayPal
+b1e4938b-6005-48d9-97dd-8a2bc894235e,2023-04-15,82.08,1,Shirt,fashion,,,2024-09-25,DHL,2024-09-29,pending,Credit Card
+ef734fef-df12-4ba3-9800-2438f1f9e25e,2023-12-19,450.26,4,Jacket,fashion,,,2024-10-20,FedEx,2024-10-31,shipped,PayPal
+10935605-0090-4e7d-bd9d-30858af75737,2023-08-08,425.42,1,Body Lotion,beauty,,,2024-09-01,UPS,2024-09-16,shipped,Debit Card
+e7991c3b-8a0d-4c57-8946-97148a1390bc,2023-10-24,252.11,1,Yoga Mat,sports,,,2024-02-26,UPS,2024-03-12,shipped,Credit Card
+684d999d-b3df-4d65-95c4-9f7a65cd7e38,2023-06-18,441.08,3,TV,electronics,1.6,2023-07-10,2024-07-07,FedEx,2024-07-09,delivered,Debit Card
+fa9fc683-6a2e-4855-bf1c-44f0d90b817b,2024-06-04,274.97,3,Lamp,home,,,2024-09-18,UPS,2024-09-21,shipped,PayPal
+d6e8bc8e-afd2-415b-9d83-7d1e46ffa759,2023-06-30,94.29,2,Lipstick,beauty,4.0,2023-07-03,2024-05-18,UPS,2024-05-20,delivered,Credit Card
+764bc70f-00bb-4824-b376-7d6ee9efa7fb,2024-03-20,364.27,5,Couch,home,4.4,2024-04-08,2024-12-15,DHL,2024-12-23,delivered,Credit Card
+c34a5348-7080-43d5-9a3b-3e8b4b8e407a,2023-03-12,74.93,1,Camera,electronics,,,2023-12-14,UPS,2023-12-18,pending,PayPal
+14746d2d-21d2-42f3-a073-415984290d52,2023-01-24,113.52,2,Smartwatch,electronics,,,2023-08-26,UPS,2023-09-07,pending,PayPal
+9a912bfd-4514-468a-80a7-7f222e0864b3,2023-09-03,343.01,5,Headphones,electronics,,,2023-10-11,UPS,2023-10-16,shipped,Credit Card
+d7a9b14e-43cf-43b6-9865-bfe7dd86fe5a,2023-04-05,114.49,5,Face Cream,beauty,,,2023-07-29,FedEx,2023-08-11,shipped,Credit Card
+5b318bba-33a9-46c2-85cd-0268deee3abe,2024-07-19,437.24,5,Headphones,electronics,4.4,2024-08-04,2024-08-23,DHL,2024-09-03,delivered,Credit Card
+27974484-c357-4337-abef-b393a597fa39,2023-05-27,136.97,2,Chair,home,,,2023-08-30,FedEx,2023-09-13,pending,Credit Card
+00f022d7-33f9-449c-8884-f20457c19eaf,2024-06-12,179.46,3,Mascara,beauty,,,2024-06-30,UPS,2024-07-05,pending,Credit Card
+c63965cf-b47b-4056-9bea-13a21caf5a01,2023-10-19,209.95,1,Air Conditioner,home,,,2023-12-30,DHL,2024-01-04,shipped,Credit Card
+41714719-56e4-4c32-b608-b57c82a598ee,2024-03-13,117.42,4,Laptop,electronics,1.7,2024-03-26,2024-07-23,DHL,2024-08-05,delivered,PayPal
+01b3164e-e53a-40ae-b425-b7d03671cb9f,2023-02-17,367.22,4,Lamp,home,,,2023-06-18,FedEx,2023-06-19,pending,PayPal
+e6badf5a-522e-41c6-a301-3e4a600a508f,2023-06-25,298.21,3,T-shirt,fashion,0.8,2023-07-18,2024-04-13,FedEx,2024-04-28,delivered,PayPal
+4e2fc9b5-4b05-4b41-b1ff-eba94bcf73f4,2023-12-12,322.9,2,Jacket,fashion,2.7,2024-01-04,2024-01-22,DHL,2024-01-25,delivered,Debit Card
+d5a2a451-0bdd-4c2f-b5f2-53840b3c4351,2024-05-30,226.11,4,Yoga Mat,sports,,,2024-07-17,UPS,2024-07-28,shipped,Debit Card
+e030fc76-dab8-4025-ad5d-e48882c6f80a,2023-07-18,205.05,2,Dining Table,home,,,2023-12-28,UPS,2024-01-03,pending,Debit Card
+7758f7e1-c37f-41d0-bb05-407bd963bc67,2024-03-26,356.2,4,Socks,fashion,0.0,2024-04-25,2024-05-03,FedEx,2024-05-05,delivered,Debit Card
+f8962899-cb90-479b-a3cc-3aabe6257e1d,2023-10-25,184.75,2,Couch,home,2.3,2023-11-03,2023-12-05,FedEx,2023-12-11,delivered,Credit Card
+233ef77b-bb9c-46b2-8f6d-fc5da340c42f,2024-03-25,434.7,2,Game Console,electronics,,,2024-06-27,DHL,2024-06-28,pending,Debit Card
+d9676c3d-992e-4f4f-bedf-e5a0e9dda77c,2023-02-28,73.31,2,Coffee Table,home,,,2023-12-03,DHL,2023-12-06,pending,Debit Card
+d5eba2a2-3ef4-45e2-a098-56f1f21fd5fc,2023-09-29,67.88,2,Sneakers,fashion,,,2024-08-31,DHL,2024-09-08,pending,PayPal
+1c25c4c7-99a8-4814-ac84-6ad6e9420767,2023-06-10,499.53,3,Shampoo,beauty,,,2024-09-07,UPS,2024-09-14,shipped,Debit Card
+39d4df30-f9cc-4316-945c-14e3fc24af7e,2023-06-23,299.22,2,Face Cream,beauty,4.1,2023-07-15,2024-02-18,FedEx,2024-02-22,delivered,Credit Card
+d3cb9624-9c93-4086-98e0-b0db70beb06e,2023-10-19,475.98,5,Face Cream,beauty,1.5,2023-10-31,2024-04-05,DHL,2024-04-10,delivered,PayPal
+b79f7789-56e5-437c-8591-be9b54532897,2023-09-16,275.25,5,Jacket,fashion,1.7,2023-10-03,2024-11-08,FedEx,2024-11-09,delivered,Debit Card
+9cf2e0de-e3d9-4a33-8c4f-c78f2fd0d161,2024-01-23,365.33,2,Jeans,fashion,1.0,2024-02-06,2024-02-24,UPS,2024-03-01,delivered,PayPal
+80801c86-a709-424f-80be-75b4a998dac1,2024-01-05,88.67,1,Couch,home,,,2024-08-11,FedEx,2024-08-20,shipped,Debit Card
+c6c0485f-1879-4fcc-8524-fe303f731f4c,2024-01-07,30.0,3,Lamp,home,3.3,2024-01-27,2024-06-13,DHL,2024-06-19,delivered,Debit Card
+6d1d2c1b-e367-4657-9cc3-27be32c808a1,2024-07-23,498.27,1,Desk,home,,,2024-09-01,DHL,2024-09-15,shipped,Credit Card
+c3590bfc-da69-42df-87fc-a382ba03a7bd,2024-08-17,431.84,3,Makeup Brush,beauty,,,2024-11-01,FedEx,2024-11-03,shipped,Debit Card
+ad25fb92-9fa2-44ac-9cb4-cf2e77de22fd,2023-12-27,378.28,3,Bluetooth Speaker,electronics,,,2024-07-13,UPS,2024-07-18,shipped,PayPal
+6bd1f059-65c3-4e59-9315-d5c3c29f1d41,2024-02-09,224.3,4,Dining Table,home,,,2024-02-12,FedEx,2024-02-16,pending,PayPal
+2ef507b0-157f-4894-a834-743f94997e19,2023-02-12,352.01,3,Shirt,fashion,,,2024-05-12,FedEx,2024-05-16,shipped,Debit Card
+837a4046-4124-4088-8a92-fdc5a11d2ce8,2023-06-16,434.69,1,Scarf,fashion,,,2024-03-21,DHL,2024-04-03,pending,PayPal
+eec64732-8c2c-426a-b3dd-15d4c3192fb1,2024-04-18,41.0,2,Lamp,home,,,2024-10-09,DHL,2024-10-15,shipped,Credit Card
+57bd53d3-12fd-4dc9-8ffd-50f68637b7f0,2024-01-15,137.07,5,Hair Dryer,beauty,1.0,2024-01-24,2024-05-26,FedEx,2024-06-07,delivered,Debit Card
+6f07a985-13b9-47bd-8b36-93a6d8df92c5,2024-02-04,188.36,3,Dining Table,home,4.3,2024-02-05,2024-02-26,UPS,2024-03-06,delivered,PayPal
+83c93151-3945-4bd8-93d6-3a34391b6e0b,2024-06-15,283.08,4,Bluetooth Speaker,electronics,4.3,2024-07-02,2024-10-01,DHL,2024-10-07,delivered,Debit Card
+8dbb22e2-2476-4a23-b9b9-945b15a6e11e,2023-01-03,384.15,2,Dumbbells,sports,,,2024-10-24,DHL,2024-10-24,shipped,Debit Card
+8c2d2dcd-f39c-4314-9355-f2317a51f203,2023-05-11,109.17,2,Camera,electronics,1.5,2023-05-22,2024-01-29,UPS,2024-02-13,delivered,Debit Card
+9a06ced1-8df1-4de6-a272-e9566a737151,2024-01-19,397.89,5,Camera,electronics,4.5,2024-01-25,2024-05-20,UPS,2024-05-20,delivered,PayPal
+05a2c5b3-1662-49bd-9f75-26b42ab783ab,2023-04-03,134.78,5,Hat,fashion,,,2024-03-24,DHL,2024-03-29,pending,Debit Card
+c4d5d0b3-e323-4729-8347-fc76fced6e7f,2023-06-09,254.82,4,Conditioner,beauty,4.9,2023-07-05,2023-10-30,FedEx,2023-11-11,delivered,Debit Card
+8ae3cbe0-14cd-4105-833b-65b688749beb,2024-09-15,228.18,5,Camera,electronics,3.9,2024-10-10,2024-12-12,FedEx,2024-12-27,delivered,PayPal
+99ed4813-e930-49dd-b55c-b6fd907c7f6f,2024-01-29,261.92,1,Tennis Racket,sports,,,2024-08-08,DHL,2024-08-23,shipped,PayPal
+00c55977-62bf-4f47-a80f-758a82a65741,2024-09-02,465.08,2,Tennis Racket,sports,,,2024-12-10,DHL,2024-12-25,shipped,Credit Card
+2184f9ab-44f9-4a13-b1fa-583268e62b39,2023-04-11,419.45,4,Conditioner,beauty,,,2024-07-23,DHL,2024-07-28,shipped,PayPal
+96498961-e569-4a50-b9ef-33b63dbf65d8,2024-07-31,245.47,3,Couch,home,4.5,2024-08-11,2024-08-19,FedEx,2024-08-19,delivered,Credit Card
+8ba30b08-cecd-4c0c-b5fe-bd610392942f,2023-12-24,75.73,5,Laptop,electronics,,,2024-01-02,FedEx,2024-01-08,shipped,Debit Card
+8b1b1e34-1b32-48bc-ad0d-86ac7d3676c9,2023-05-05,260.89,5,Tablet,electronics,,,2024-07-25,FedEx,2024-08-07,pending,Debit Card
+72bc5d8e-ba0f-4d70-b001-f77809f4d82b,2023-04-06,377.84,4,T-shirt,fashion,,,2024-09-26,FedEx,2024-10-01,pending,Debit Card
+2fafce26-caad-4703-9bd9-0e143654d45d,2023-07-08,160.17,4,Headphones,electronics,4.9,2023-07-24,2024-09-20,FedEx,2024-09-26,delivered,Debit Card
+359fd4fc-cc07-4704-95f0-758398867ec1,2023-11-05,264.32,5,Jacket,fashion,,,2024-03-22,UPS,2024-03-23,shipped,Credit Card
+2cff82b5-0026-4dbf-89b9-252eae043603,2023-01-12,279.48,5,Air Conditioner,home,1.3,2023-01-12,2024-04-25,FedEx,2024-04-26,delivered,PayPal
+a218d111-b109-4ab5-bc14-61c439887c2b,2023-01-15,382.29,2,Baseball Bat,sports,,,2024-08-20,UPS,2024-08-22,shipped,Credit Card
+c12b2790-0563-453c-acba-931fb568c401,2024-01-26,156.44,3,Laptop,electronics,,,2024-04-15,DHL,2024-04-18,pending,Debit Card
+b858b876-faa7-4979-ad13-caec5cdf8165,2023-07-15,246.21,1,Running Shoes,sports,,,2024-04-10,DHL,2024-04-11,shipped,Credit Card
+276a11ca-a1ef-49eb-9ac9-eeef54ac37a0,2024-05-04,346.32,3,Jacket,fashion,,,2024-12-05,FedEx,2024-12-18,shipped,Debit Card
+60491514-528e-4204-9a61-4ecb21d1b020,2024-03-07,45.77,4,Dining Table,home,0.7,2024-03-26,2024-03-26,DHL,2024-04-07,delivered,Credit Card
+8d6af0f1-42f8-460a-aed6-1a2fb922a3cb,2023-07-09,129.15,2,Scarf,fashion,0.3,2023-08-01,2024-11-01,DHL,2024-11-01,delivered,Debit Card
+efa05fda-13d0-42ba-b395-96975a6b49d9,2024-03-10,219.9,2,Hair Dryer,beauty,4.3,2024-03-11,2024-05-31,FedEx,2024-06-13,delivered,Credit Card
+b040df65-8aa3-4b85-8261-c2067f38699c,2024-06-03,27.38,5,Air Conditioner,home,,,2024-12-10,DHL,2024-12-10,shipped,Credit Card
+0c1ac51d-24ed-4ead-81c4-ca2f78f31e80,2024-03-19,293.36,3,Dumbbells,sports,4.7,2024-04-02,2024-07-03,FedEx,2024-07-07,delivered,PayPal
+f0c8cec4-8157-4b74-8982-ba3f9151339d,2023-11-24,486.2,4,Baseball Bat,sports,,,2024-01-03,DHL,2024-01-06,shipped,Debit Card
+da8f5ee6-3cc1-4031-b3ae-40f2c078dd2a,2023-05-03,276.51,2,Hair Dryer,beauty,,,2023-11-28,FedEx,2023-12-08,pending,Credit Card
+9216b83a-27ff-4bf2-bce5-6c1a66c9e286,2024-08-22,444.97,3,Yoga Mat,sports,2.7,2024-08-25,2024-09-29,DHL,2024-10-10,delivered,Credit Card
+1ccb8492-d1f4-48d4-bbaf-8b109ae2f108,2023-07-22,340.94,5,Shampoo,beauty,,,2023-07-29,DHL,2023-08-08,shipped,Credit Card
+88f8ed6a-2358-4a74-8f48-feaf8856b05a,2023-10-08,160.68,3,Basketball,sports,,,2024-04-06,DHL,2024-04-19,shipped,Debit Card
+fb4a9532-6afa-45af-9922-e0ae6e4ab066,2023-06-23,133.34,2,Running Shoes,sports,,,2024-09-02,FedEx,2024-09-03,shipped,Debit Card
+772a67fb-aa38-441f-99de-bf79a9491705,2023-08-20,284.8,5,Hair Dryer,beauty,2.0,2023-09-02,2023-12-21,DHL,2024-01-05,delivered,PayPal
+e8499f5e-fdc5-4f48-b7ec-b96b519e5040,2023-12-07,227.89,2,T-shirt,fashion,,,2024-12-12,FedEx,2024-12-13,pending,Debit Card
+d51a3b07-4fd4-4f19-b21f-72e09482d543,2023-09-27,105.21,3,Jacket,fashion,,,2023-10-30,UPS,2023-10-30,pending,PayPal
+f57d697e-ec9d-49cd-9b1d-c5d76e4ca502,2023-10-15,112.94,1,Socks,fashion,4.8,2023-10-19,2024-11-14,UPS,2024-11-28,delivered,PayPal
+2c1a1459-a84d-4b92-a10d-89d359a4f40b,2024-04-23,362.05,5,Socks,fashion,,,2024-06-20,UPS,2024-06-21,pending,Debit Card
+2ac66600-d574-43f1-82f5-3239dd116628,2024-01-23,366.66,3,TV,electronics,,,2024-05-18,DHL,2024-05-19,shipped,Debit Card
+902b0e82-91b1-41a9-a4e1-a86b79e960af,2024-02-01,444.01,3,Face Cream,beauty,,,2024-03-13,DHL,2024-03-27,shipped,Debit Card
+cca7ff7d-f8c1-4ef3-8e65-799d27c6a853,2023-07-14,34.84,4,Printer,electronics,4.4,2023-07-26,2023-10-28,UPS,2023-11-01,delivered,Debit Card
+74b775c9-4b80-46c8-b2f4-c35ddd7e243d,2023-06-04,200.17,5,Dress,fashion,,,2024-12-15,UPS,2024-12-27,pending,PayPal
+4ed6f237-51fd-4575-8df4-c35fad3618bf,2024-01-28,459.73,1,Chair,home,,,2024-07-10,UPS,2024-07-17,shipped,Credit Card
+04201891-ff62-4a2f-a8bc-1eb76b5348d6,2023-10-15,383.96,5,Cycling Helmet,sports,2.8,2023-10-27,2024-09-03,UPS,2024-09-06,delivered,PayPal
+0bf5c8b4-df5f-4259-849d-93cfb4a0be5e,2024-05-10,322.85,3,Body Lotion,beauty,,,2024-08-13,UPS,2024-08-15,shipped,PayPal
+e08594ee-f007-4761-bb68-6881ba3875db,2023-08-29,99.46,2,T-shirt,fashion,,,2024-01-06,FedEx,2024-01-16,shipped,Debit Card
+27f10b29-0eb6-4856-9d4b-7fe2ddd55bbe,2024-08-13,425.75,4,Hair Dryer,beauty,,,2024-12-07,UPS,2024-12-20,shipped,Credit Card
+beb61ff2-3750-4482-9e20-d8c107f32abc,2024-03-07,176.49,3,Running Shoes,sports,2.2,2024-03-24,2024-11-04,DHL,2024-11-08,delivered,Credit Card
+ad63bf53-6e9d-486b-9a73-ac2a8b8674fa,2023-02-28,488.3,3,Dining Table,home,,,2024-10-20,DHL,2024-10-22,shipped,PayPal
+3b9acecc-a774-48b3-b97f-876fa3a353fc,2024-06-13,41.84,4,Sweater,fashion,,,2024-08-03,UPS,2024-08-09,shipped,Credit Card
+bff93425-33f4-4cf5-ab05-3ed07da619e6,2024-05-08,182.58,5,Bluetooth Speaker,electronics,,,2024-11-17,UPS,2024-11-25,pending,Debit Card
+145f98f8-3ff3-4021-b7d9-14fb6e561365,2023-10-05,321.33,2,Couch,home,0.9,2023-10-30,2024-08-01,DHL,2024-08-13,delivered,PayPal
+e3eebc26-6402-45d1-bcea-2db5d3cae1c9,2023-02-12,325.5,5,Tennis Racket,sports,3.4,2023-02-25,2023-09-16,FedEx,2023-09-27,delivered,Debit Card
+5aa3ec6e-d821-4129-985c-26268761aba7,2024-07-18,260.34,1,Lamp,home,,,2024-07-28,DHL,2024-08-04,pending,Debit Card
+a7f5542c-08ad-489f-9d85-790084011563,2023-01-19,495.23,4,Dress,fashion,,,2024-05-10,UPS,2024-05-18,shipped,Debit Card
+688453fc-4593-46f2-b84b-eb792209933f,2023-11-17,306.9,3,Cycling Helmet,sports,,,2024-04-27,DHL,2024-04-28,pending,Debit Card
+2790d0de-ba37-460c-a010-c5bfc99bea13,2023-08-30,478.77,3,Smartphone,electronics,,,2023-09-24,DHL,2023-09-28,pending,Debit Card
+3b242cad-675f-4644-a159-e3b541101192,2024-02-29,212.56,1,Yoga Mat,sports,,,2024-03-01,UPS,2024-03-06,pending,Credit Card
+89378de8-bb54-4fe3-9cf9-d2bd667cc9b6,2023-07-27,218.75,5,Hair Dryer,beauty,0.0,2023-07-28,2024-01-23,FedEx,2024-02-01,delivered,Credit Card
+f35fab54-d2dd-43cd-8955-f16fb0b00579,2023-08-12,303.43,2,Soccer Ball,sports,,,2024-11-03,DHL,2024-11-11,shipped,PayPal
+ddfa6492-4933-4cd3-a2df-507bb388b926,2023-10-08,209.13,5,Dress,fashion,,,2024-07-29,FedEx,2024-08-01,pending,Credit Card
+bced5435-0957-4d29-9c12-bce65f17a030,2024-06-17,239.46,3,Sweater,fashion,2.1,2024-07-08,2024-10-22,UPS,2024-11-05,delivered,Credit Card
+3ee35dca-d3ec-47ee-97e9-6723c6019f80,2024-01-19,275.82,2,Makeup Brush,beauty,1.5,2024-01-23,2024-09-25,UPS,2024-09-27,delivered,Debit Card
+b20596e8-aae8-4dc0-bb80-226f71711732,2023-01-31,442.1,4,T-shirt,fashion,,,2023-06-11,DHL,2023-06-12,shipped,Credit Card
+2d4c0f1f-0722-48aa-a2dd-321d802a795a,2024-07-25,452.54,2,Chair,home,,,2024-12-16,FedEx,2024-12-20,pending,Credit Card
+fd6d6784-6ab6-41fc-9e90-fa8005a35897,2023-06-02,259.78,3,Baseball Bat,sports,,,2023-11-26,FedEx,2023-12-10,shipped,Credit Card
+f9dd91c2-0bc9-4cd8-88ce-f33c6057783d,2024-02-21,448.49,1,Hat,fashion,,,2024-04-24,UPS,2024-04-30,pending,Credit Card
+6a3cdc00-093e-4591-8e12-96217c68c449,2023-08-10,278.12,2,Hat,fashion,,,2024-10-26,DHL,2024-10-27,pending,Debit Card
+f009848f-4ca9-44a0-951c-9e2ca3da0bbb,2023-07-12,274.05,3,Smartwatch,electronics,,,2024-02-27,FedEx,2024-03-12,shipped,Debit Card
+afa6366e-cf47-4474-8e6c-fb795205ae5a,2024-06-20,148.41,3,Yoga Mat,sports,,,2024-10-31,DHL,2024-11-11,shipped,PayPal
+d41a3a20-722d-4c8d-bfc6-0b1fab82f81a,2024-07-18,176.8,1,Mascara,beauty,,,2024-08-28,UPS,2024-09-05,shipped,PayPal
+3267db0c-ef26-4f53-a4d5-42a0c07c9f9a,2024-07-14,211.98,2,Jacket,fashion,,,2024-10-21,UPS,2024-10-24,pending,Debit Card
+efb1fc78-7f79-4151-99bd-2e85282c3ce8,2024-06-08,320.96,3,Running Shoes,sports,,,2024-11-12,UPS,2024-11-24,shipped,PayPal
+65566b25-2abd-4c46-adb6-cbbd39279f5b,2024-01-30,137.46,4,Dining Table,home,,,2024-05-29,FedEx,2024-06-12,shipped,PayPal
+7f928412-0c1d-48ca-987b-d43fd18e4414,2024-07-24,271.42,4,Hair Dryer,beauty,,,2024-11-01,UPS,2024-11-11,pending,Credit Card
+90aff0a9-38ea-426a-b391-890d8986c1cc,2023-01-05,301.64,3,Dumbbells,sports,,,2023-06-20,FedEx,2023-06-23,shipped,Debit Card
+3e442f27-f159-45dc-8356-c7ab59e127cc,2024-03-30,130.64,4,Bookshelf,home,,,2024-11-14,FedEx,2024-11-26,pending,PayPal
+47b762c9-8ea8-4425-9c30-79e1c85f7781,2023-03-28,223.79,4,Nail Polish,beauty,0.3,2023-04-14,2023-07-25,FedEx,2023-07-25,delivered,PayPal
+8e775829-96d5-4cff-854d-4fc35afa0b86,2024-09-06,252.18,4,Baseball Bat,sports,,,2024-11-20,FedEx,2024-11-26,pending,PayPal
+6770ec42-191c-4b92-a4fb-970b4bfbfd82,2023-08-04,165.16,5,Dress,fashion,,,2023-09-23,FedEx,2023-10-01,pending,Debit Card
+29633db0-abd0-4538-b1d9-7c1a1f16a428,2023-01-15,469.06,1,Desk,home,4.3,2023-01-26,2024-02-11,DHL,2024-02-12,delivered,PayPal
+4b98bdeb-3cf4-49c6-bb31-14de62e733c5,2024-06-01,347.77,4,Air Conditioner,home,,,2024-11-24,FedEx,2024-11-26,pending,Debit Card
+32675cfe-7bac-42f3-aa75-417391584fd4,2023-11-30,456.79,5,Sneakers,fashion,1.4,2023-12-24,2023-12-29,DHL,2024-01-02,delivered,Debit Card
+7bb7fbb9-b604-4d34-81df-a41050c0ac12,2023-09-25,20.72,4,Lamp,home,,,2024-10-10,FedEx,2024-10-24,pending,Credit Card
+39dc7c0b-359a-4b0f-91a0-d8cb75c9e735,2024-06-19,106.92,1,Soccer Ball,sports,,,2024-08-10,UPS,2024-08-18,pending,PayPal
+a807e6d1-30dd-4f8a-982a-1d082a06a569,2024-01-18,239.17,3,Hair Dryer,beauty,,,2024-02-12,DHL,2024-02-23,shipped,PayPal
+027cfd30-7e25-46df-be6e-1f31b86a0ed8,2023-08-10,445.0,1,Game Console,electronics,,,2024-11-06,UPS,2024-11-20,pending,PayPal
+ff7e58f0-4dc8-41e1-a09b-31ea38acedac,2023-07-18,395.67,2,Dining Table,home,4.8,2023-08-12,2023-09-24,UPS,2023-09-28,delivered,Debit Card
+f2711395-870b-42a8-ae18-5f04357db7e7,2023-03-08,227.97,3,Coffee Table,home,0.9,2023-03-31,2024-08-05,FedEx,2024-08-15,delivered,Credit Card
+fb4c51a9-3c53-45df-bf58-8c059315a42e,2024-03-27,54.11,3,Lipstick,beauty,2.0,2024-03-30,2024-08-21,DHL,2024-08-23,delivered,PayPal
+c9e544b9-7d29-4040-a8c4-299370658cc9,2023-11-09,37.21,1,Cycling Helmet,sports,,,2024-07-17,FedEx,2024-07-20,shipped,Credit Card
+d41b0bb2-04df-4955-aedd-548002a267a2,2023-01-09,341.25,2,Chair,home,1.3,2023-02-03,2023-10-04,DHL,2023-10-14,delivered,Credit Card
+aae6e9e2-b5d6-488a-8b54-c5ad474f4d44,2024-02-03,318.92,2,Dining Table,home,5.0,2024-02-17,2024-06-03,FedEx,2024-06-17,delivered,Debit Card
+985cbccf-3ae0-4991-8c45-06d4b6a4c4f1,2023-12-14,49.84,3,Smartphone,electronics,,,2024-05-06,DHL,2024-05-18,shipped,PayPal
+4d25ce1b-f629-484d-9a92-b7d208ee9da6,2024-07-12,116.22,2,Chair,home,,,2024-07-30,DHL,2024-08-03,pending,Credit Card
+b70efef0-7d4b-45b4-8d6b-9b7056faf8e5,2023-07-17,298.36,5,Coffee Table,home,,,2024-01-16,FedEx,2024-01-31,pending,PayPal
+b43139a7-062e-4103-8b93-38ed99a2609a,2023-12-09,202.1,1,Hair Dryer,beauty,3.4,2023-12-14,2024-01-07,FedEx,2024-01-21,delivered,Credit Card
+fd042c2c-cac5-4e1a-aad8-64afe92cf866,2023-05-26,310.57,2,Cycling Helmet,sports,0.3,2023-05-26,2023-12-02,DHL,2023-12-15,delivered,Credit Card
+c7f3f029-0730-43f7-bd74-2de3419247bc,2024-07-10,418.5,5,Curtains,home,0.3,2024-08-04,2024-11-14,UPS,2024-11-22,delivered,PayPal
+8db476ec-8e52-4c6b-93ee-f21e80b8fec8,2024-02-16,490.66,3,Headphones,electronics,,,2024-11-21,DHL,2024-12-02,shipped,Credit Card
+60d2702a-8fce-46cd-94bc-84bcc0619335,2023-02-28,23.24,4,T-shirt,fashion,,,2024-06-06,FedEx,2024-06-21,shipped,Debit Card
+a8afe95d-4a9f-4a21-b2f0-e67e3be65c81,2023-01-20,372.46,2,Conditioner,beauty,,,2024-01-28,FedEx,2024-02-05,pending,Credit Card
+6bec8616-4efa-4c45-b1cb-844fd163d14f,2023-06-15,54.12,2,Couch,home,,,2023-10-26,UPS,2023-10-28,pending,Credit Card
+b5fe93e9-8dd4-4f25-8f3f-ddc9f2651608,2023-04-04,73.32,3,Shampoo,beauty,,,2023-06-28,FedEx,2023-07-03,shipped,PayPal
+2941d4d3-e0db-4737-bb8c-262cb18b02e5,2023-07-02,262.07,4,Headphones,electronics,,,2023-07-07,UPS,2023-07-10,pending,Credit Card
+912c8e93-a6bf-447e-ada1-44b187491a15,2023-11-07,423.08,3,Curtains,home,,,2024-04-04,FedEx,2024-04-11,pending,PayPal
+fec81b84-66c5-4314-9c04-7843d740ddb1,2023-04-01,78.31,4,Headphones,electronics,3.3,2023-04-13,2024-06-06,UPS,2024-06-18,delivered,Credit Card
+f99fda8c-845f-4f76-8e7e-81ef141d63fc,2024-09-17,417.07,4,Desk,home,,,2024-10-21,FedEx,2024-10-30,pending,PayPal
+929648ea-d897-4307-a3d5-131da75adf3d,2024-08-01,315.18,4,Dining Table,home,,,2024-10-25,DHL,2024-11-02,pending,Debit Card
+412113d5-1cef-4591-a6be-8d303942f3db,2023-03-04,278.02,4,Bookshelf,home,1.7,2023-04-01,2024-09-06,FedEx,2024-09-16,delivered,PayPal
+901e06fd-db59-47ab-bbbf-3e4d6cdfc402,2023-10-23,470.87,1,Tennis Racket,sports,1.1,2023-11-04,2024-11-05,FedEx,2024-11-05,delivered,Debit Card
+ce3b22cb-d761-4068-aa05-b48eb8959dff,2023-05-11,174.31,1,Tennis Racket,sports,,,2024-04-05,UPS,2024-04-12,pending,Credit Card
+dc705c39-247c-4de8-9c51-15ace4f693eb,2023-08-12,163.95,4,Tennis Racket,sports,2.3,2023-08-21,2024-02-25,FedEx,2024-03-03,delivered,Credit Card
+f5999d84-d2db-42d4-afaa-60f54119050f,2023-09-29,433.36,1,Nail Polish,beauty,,,2024-06-27,UPS,2024-06-27,pending,Debit Card
+ddba0057-3b1f-4a93-a3ee-564db53f810b,2023-12-21,393.53,1,Dress,fashion,4.2,2023-12-26,2024-11-17,DHL,2024-11-24,delivered,Credit Card
+4b2be1da-7042-456c-8b3e-2c0a77fddd60,2023-02-20,450.04,2,Conditioner,beauty,,,2023-12-18,FedEx,2023-12-20,pending,Credit Card
+bd256f91-9101-47da-809b-843083e13cb3,2024-08-15,163.7,4,Bookshelf,home,,,2024-10-13,FedEx,2024-10-27,pending,Debit Card
+8bb1567c-1f1b-4384-8412-ddf115c5565f,2023-12-01,424.7,1,Conditioner,beauty,4.6,2023-12-01,2024-09-11,DHL,2024-09-24,delivered,Debit Card
+39afc2fe-6e92-40ed-a37c-fbea1d1d2c29,2023-11-14,356.89,1,Perfume,beauty,,,2024-04-20,DHL,2024-04-20,shipped,Credit Card
+15d7ece8-6788-4bcb-8eb9-491d5020268a,2023-04-28,219.5,4,T-shirt,fashion,0.6,2023-05-22,2024-02-01,UPS,2024-02-13,delivered,Credit Card
+2ad8286f-ea5e-4964-adda-289bb7016cb9,2023-02-22,337.71,5,Chair,home,,,2023-07-06,UPS,2023-07-16,pending,Debit Card
+26d87d45-c4fe-4d7d-b302-c46e7a0da579,2023-08-11,131.17,5,Shirt,fashion,,,2024-07-07,FedEx,2024-07-18,pending,PayPal
+5cda207b-e524-44db-9366-c87bf4167563,2024-03-11,261.86,1,Golf Club,sports,,,2024-06-19,DHL,2024-07-04,pending,Debit Card
+506a9491-fff9-4853-8cfb-31970bebd35e,2024-03-07,349.79,1,Game Console,electronics,,,2024-08-22,DHL,2024-08-27,shipped,Debit Card
+3cf7242d-496a-4639-81e5-ed80b58b4782,2023-12-09,478.47,4,Lamp,home,,,2024-08-04,DHL,2024-08-04,pending,Debit Card
+b57e250f-b553-4bc2-86ef-26d348eeed66,2023-02-05,330.49,4,Couch,home,,,2024-02-12,DHL,2024-02-12,pending,Credit Card
+85f44f29-d3ce-4f06-be36-08753cde1298,2024-08-23,498.07,1,Chair,home,,,2024-10-17,DHL,2024-10-30,pending,Credit Card
+2b74c07e-7953-4f82-b85e-37601593853e,2023-11-19,360.5,1,Perfume,beauty,0.6,2023-11-21,2024-02-19,DHL,2024-02-19,delivered,Credit Card
+eb363f72-cfe8-4893-b588-bd492521dec6,2023-07-25,112.73,3,TV,electronics,0.6,2023-08-08,2024-04-05,FedEx,2024-04-05,delivered,Debit Card
+7e066370-2e32-4331-91e6-2452f35bb7d9,2023-09-18,26.51,2,Soccer Ball,sports,3.5,2023-09-23,2023-12-15,UPS,2023-12-20,delivered,Debit Card
+8ad69103-2fef-4369-bcbd-7dc380edb914,2023-02-20,240.07,1,Air Conditioner,home,0.3,2023-02-22,2023-10-07,FedEx,2023-10-22,delivered,Debit Card
+45a7028b-7f83-4787-9d02-387d4ff0e5b8,2024-02-07,207.35,3,Soccer Ball,sports,,,2024-12-15,FedEx,2024-12-25,pending,PayPal
+97cfc504-5be8-494b-93c3-260f03f6cb98,2024-01-14,143.32,4,T-shirt,fashion,1.8,2024-01-21,2024-07-13,UPS,2024-07-17,delivered,PayPal
+1333d15c-3233-49ec-ace1-e672e26c698e,2023-10-29,99.3,4,Dumbbells,sports,1.0,2023-11-08,2024-02-26,DHL,2024-03-04,delivered,PayPal
+08477fb4-7445-4fa0-b2c7-f51b4cf093e4,2024-03-18,325.1,4,Coffee Table,home,,,2024-05-11,DHL,2024-05-13,pending,Credit Card
+8922f0a2-2713-4ccd-b8f9-54f180bcf490,2023-09-18,119.22,4,Sneakers,fashion,2.5,2023-10-13,2024-09-29,FedEx,2024-10-07,delivered,Credit Card
+75bead01-ed24-4345-9462-c18ad617186d,2023-11-16,319.61,4,Golf Club,sports,,,2024-04-08,DHL,2024-04-14,pending,PayPal
+e3107807-3902-4abf-93da-290c4ca4bb20,2023-12-07,161.7,3,Body Lotion,beauty,,,2024-08-09,UPS,2024-08-16,shipped,Credit Card
+ae5b3b18-3280-4177-a105-8fd0d0535d0c,2023-03-17,181.25,1,Bluetooth Speaker,electronics,,,2024-09-24,FedEx,2024-10-08,shipped,PayPal
+1a2936d5-5247-40c4-b71f-81144b6a4cb6,2024-04-11,244.99,2,Shampoo,beauty,,,2024-06-01,FedEx,2024-06-12,pending,Debit Card
+44284d5f-3ede-450f-9886-e3324e7b701b,2023-02-21,35.62,2,Coffee Table,home,2.8,2023-03-04,2024-11-17,DHL,2024-11-27,delivered,PayPal
+21fe0725-2510-4e16-9fa6-9676449798bd,2024-04-08,346.77,3,Laptop,electronics,,,2024-04-25,UPS,2024-04-27,shipped,Credit Card
+86876703-5bc4-43c3-8697-b8a37b394036,2024-03-21,465.81,2,Scarf,fashion,,,2024-07-10,DHL,2024-07-20,shipped,Debit Card
+796f23dd-eb44-4395-a213-d7caa6c197e2,2023-06-28,254.74,2,Bluetooth Speaker,electronics,,,2024-09-17,UPS,2024-09-26,pending,Debit Card
+378adf50-81fd-46ae-811c-55bf848b5798,2023-07-14,124.88,1,Jacket,fashion,,,2024-07-08,DHL,2024-07-08,shipped,Credit Card
+4980e318-82c8-44ca-8271-069d9ababd62,2023-08-12,235.45,2,Running Shoes,sports,0.6,2023-08-17,2024-11-26,DHL,2024-11-27,delivered,Debit Card
+2b603640-a27f-4036-a94b-d95615fbe8a0,2024-05-17,22.79,2,Scarf,fashion,,,2024-06-22,FedEx,2024-07-04,shipped,PayPal
+0b924327-9af6-454a-bac4-b49bd9701602,2023-07-08,276.14,5,Hat,fashion,2.6,2023-08-01,2024-02-28,UPS,2024-03-01,delivered,Debit Card
+bef9daf7-8098-403c-9418-e6eaed4df5a3,2023-06-16,422.53,5,Soccer Ball,sports,1.3,2023-06-18,2024-03-21,UPS,2024-03-26,delivered,Debit Card
+3089ba7f-3108-4a0c-8afb-8423789fad21,2023-08-29,258.5,4,T-shirt,fashion,,,2024-05-07,UPS,2024-05-12,pending,Debit Card
+195276ba-869a-47d3-87a8-be6178754719,2023-03-29,177.85,2,Game Console,electronics,,,2023-11-17,FedEx,2023-11-17,shipped,Credit Card
+a8f10738-26d6-48f1-ad48-1d41466101ed,2024-05-26,85.56,2,Socks,fashion,4.1,2024-05-28,2024-11-19,DHL,2024-11-25,delivered,Credit Card
+dd4dfa36-cbf8-43c2-9216-3046f1b07296,2024-08-14,24.85,5,Laptop,electronics,,,2024-08-27,DHL,2024-09-11,pending,Credit Card
+65f7292b-ec20-4bef-a9a4-e2c1197013a5,2023-02-21,164.61,4,Smartwatch,electronics,,,2024-06-01,DHL,2024-06-14,pending,PayPal
+f6a34947-1495-48c9-8f44-42c311fb537f,2023-05-01,130.16,1,Perfume,beauty,,,2024-10-25,UPS,2024-10-26,shipped,PayPal
+ef030bdf-3a38-4145-ac39-c00eda8acdd8,2024-05-23,171.51,3,Camera,electronics,,,2024-08-24,FedEx,2024-08-31,shipped,Credit Card
+35fafa7c-399e-43c4-8d7d-ac80401a33df,2024-08-01,426.37,5,Dining Table,home,,,2024-09-11,FedEx,2024-09-15,pending,Debit Card
+1a4fce59-7dc9-4234-81fb-e28d79f5a8ce,2024-08-11,414.74,1,Conditioner,beauty,,,2024-10-05,DHL,2024-10-08,shipped,Credit Card
+731c0a5b-6354-4f2c-80e6-59e9011332dc,2024-06-18,55.01,5,Bluetooth Speaker,electronics,4.6,2024-07-03,2024-10-27,DHL,2024-10-27,delivered,Debit Card
+37e7c3ce-7381-46ee-a5f5-e0f6a1686215,2023-03-04,162.11,1,Baseball Bat,sports,0.3,2023-03-18,2023-09-27,FedEx,2023-10-11,delivered,PayPal
+beac5166-54d4-4ec2-a7fd-d32b85c6c712,2024-03-11,475.6,1,Socks,fashion,,,2024-03-13,FedEx,2024-03-27,pending,Debit Card
+aab13d80-2044-403f-8eee-b6a10a26f2b2,2023-08-19,347.08,5,Baseball Bat,sports,0.2,2023-08-19,2024-07-04,FedEx,2024-07-12,delivered,Debit Card
+cfba2fbd-0a0f-4918-880b-dd2a34d1b57e,2024-09-26,268.72,2,Lamp,home,3.8,2024-10-10,2024-11-19,FedEx,2024-11-22,delivered,PayPal
+743d0a4c-9d0f-43d9-9d69-c72d000db9fd,2024-07-05,395.72,3,TV,electronics,,,2024-10-29,FedEx,2024-11-10,shipped,Debit Card
+f83e5e59-747b-46c1-9ed3-5c5d271d53ab,2024-05-29,358.1,3,Mascara,beauty,,,2024-06-14,UPS,2024-06-15,pending,PayPal
+4c26634b-3caf-4e47-afc7-506eacff1a1a,2023-12-30,122.29,1,Jacket,fashion,,,2024-10-29,FedEx,2024-10-29,shipped,Debit Card
+8268927d-cd3c-4dfe-b21f-1fb2c5457ba1,2024-08-29,275.39,1,Coffee Table,home,,,2024-11-25,FedEx,2024-11-30,pending,Credit Card
+229ce1d8-dc74-4f5e-a212-55b52cebcc3e,2024-03-01,111.16,3,Bookshelf,home,,,2024-07-02,UPS,2024-07-14,shipped,Credit Card
+f6cec2a7-bc50-42a1-9740-ca7f5c8811eb,2024-09-03,89.12,3,Desk,home,,,2024-12-02,FedEx,2024-12-09,pending,PayPal
+c99c5f85-480b-4bde-8ae4-d83fab036a06,2023-11-02,21.84,3,Scarf,fashion,4.0,2023-12-02,2024-03-22,FedEx,2024-04-01,delivered,Debit Card
+eb805f09-8750-4caf-b018-e75d990b21a8,2023-06-17,211.02,3,Golf Club,sports,,,2024-03-10,UPS,2024-03-24,pending,PayPal
+f71ce928-a0fc-4ca0-94ee-cef29de73077,2024-04-13,467.0,1,Running Shoes,sports,,,2024-08-11,UPS,2024-08-12,shipped,PayPal
+e6914bae-48ad-4c7f-b557-7222e42cd738,2024-07-15,464.1,3,Yoga Mat,sports,,,2024-07-21,FedEx,2024-07-21,shipped,Credit Card
+e69eb6a4-b61f-4c53-bbf5-8e3ca64f6e25,2023-06-05,355.82,3,Tennis Racket,sports,,,2023-12-27,DHL,2024-01-02,pending,Debit Card
+d950c81e-0b7d-4a0d-9bda-440fe0bd36b3,2023-09-19,37.62,5,Dress,fashion,,,2023-12-20,DHL,2024-01-02,pending,PayPal
+9b3c1ead-9851-40a5-9a2d-bbb9f49fbe4a,2023-06-20,93.36,1,Camera,electronics,3.7,2023-07-14,2023-07-08,DHL,2023-07-10,delivered,Debit Card
+83377031-694c-45b7-9df8-4ff6cd271467,2024-01-01,425.38,4,Nail Polish,beauty,,,2024-06-20,FedEx,2024-06-30,pending,Debit Card
+bfc25d20-2aeb-406b-892d-3d70f80e01c9,2023-02-21,122.17,3,Sneakers,fashion,,,2023-04-07,FedEx,2023-04-07,shipped,PayPal
+23da93d8-21b7-4b9d-a848-ecc34be39ff6,2024-05-20,221.01,4,Couch,home,,,2024-07-27,FedEx,2024-08-03,pending,PayPal
+3583d6ec-1328-47db-804d-7bdbcaf9aa51,2023-07-30,373.85,4,Lipstick,beauty,,,2024-07-08,UPS,2024-07-23,pending,PayPal
+984b635b-3fee-41e9-91e7-243a07c02fa9,2023-10-16,194.2,3,TV,electronics,,,2024-05-06,UPS,2024-05-09,pending,PayPal
+71224e4b-86f2-4e56-a488-b89735983c50,2023-12-24,114.05,1,Lamp,home,,,2024-01-26,FedEx,2024-01-31,shipped,Debit Card
+21c11b32-1808-4cd6-8e78-13430d7a6499,2023-03-05,57.04,2,Perfume,beauty,2.1,2023-03-19,2024-01-02,DHL,2024-01-14,delivered,Credit Card
+5e98ac66-69dd-40d8-8b70-61b0be006197,2023-10-14,58.37,3,Golf Club,sports,,,2024-09-12,DHL,2024-09-15,pending,Credit Card
+7f7278c8-d4b8-4aef-acbe-e870bc0f0438,2023-12-18,496.44,4,TV,electronics,,,2024-10-27,FedEx,2024-10-30,shipped,PayPal
+08ae8efc-4b6d-41b2-949e-86086eba7ad4,2023-07-25,442.07,4,Chair,home,4.6,2023-08-12,2023-09-22,DHL,2023-09-23,delivered,Credit Card
+da3fd747-90fb-411f-91da-c2dfbef581ab,2024-06-13,156.06,1,Desk,home,,,2024-12-09,DHL,2024-12-09,shipped,PayPal
+61dd1380-a395-49f9-a00b-d14183a1bcb3,2024-01-30,251.52,4,Couch,home,,,2024-02-21,FedEx,2024-03-05,pending,Debit Card
+9a9ad3e1-a30f-4398-99ef-889d83c5b876,2023-10-20,398.69,3,Jacket,fashion,4.1,2023-10-21,2023-11-18,DHL,2023-12-02,delivered,PayPal
+e1f5b7f2-b5dc-4cd8-a94d-a3a3aecf244b,2023-10-13,442.25,2,Game Console,electronics,,,2024-12-11,DHL,2024-12-24,shipped,Debit Card
+68c60f51-eaa9-49d5-90ed-ed077c0b8c00,2023-02-03,101.95,3,TV,electronics,,,2023-02-13,DHL,2023-02-18,shipped,Debit Card
+b99ca1d0-2958-4093-a02b-28845f036099,2023-08-26,217.63,3,Curtains,home,,,2023-09-30,UPS,2023-10-08,shipped,PayPal
+a9b56e34-349c-4d9d-a3aa-715f2643ded7,2023-02-02,132.22,3,Tablet,electronics,,,2023-12-21,UPS,2023-12-24,pending,Debit Card
+db356f72-cd6c-495a-baa5-5b6c476784ca,2023-07-08,481.45,5,Headphones,electronics,4.6,2023-07-17,2023-08-31,UPS,2023-09-02,delivered,Credit Card
+fb90fdd6-6ec5-416a-8bb9-8447bf91825c,2024-02-25,438.99,4,Nail Polish,beauty,,,2024-04-02,DHL,2024-04-09,shipped,Debit Card
+77517be9-7cf4-4af7-9c69-516f27013238,2024-07-25,428.25,1,Nail Polish,beauty,,,2024-12-13,UPS,2024-12-14,shipped,Debit Card
+2193ef99-185a-402a-88c0-b38d903e3cde,2023-08-09,87.01,3,TV,electronics,3.5,2023-08-30,2024-03-06,DHL,2024-03-06,delivered,Credit Card
+5f6f2e73-78d8-4f11-923e-0c23c9610df2,2023-10-21,249.63,1,Curtains,home,,,2024-03-16,DHL,2024-03-26,shipped,Debit Card
+b6df0f87-3b55-41ce-8339-0ad068b3066b,2023-06-29,305.19,1,Basketball,sports,,,2024-11-22,UPS,2024-11-23,pending,Credit Card
+16fcafd6-4a26-49ee-bc0f-6843dc6a5d19,2024-03-05,279.78,3,Bluetooth Speaker,electronics,,,2024-07-22,DHL,2024-07-23,pending,Credit Card
+e29016f4-0b20-4f63-b40a-ef012ad2d9c7,2023-06-23,25.87,3,Chair,home,,,2024-07-19,FedEx,2024-07-30,shipped,PayPal
+252a3423-ac1c-4b5b-a7cb-6fda55ec576e,2023-09-02,488.93,1,Curtains,home,,,2024-07-09,UPS,2024-07-13,pending,Debit Card
+6788319c-eeca-4ba9-8cca-f33e23ed4beb,2023-04-29,253.97,2,Hair Dryer,beauty,,,2024-06-20,DHL,2024-06-27,shipped,Debit Card
+f6e8c760-4e79-47a0-9a88-1f20f671d97c,2024-06-17,210.76,1,Dress,fashion,,,2024-06-27,DHL,2024-07-04,shipped,Debit Card
+fb94ddd6-0adb-49b0-b72e-4393c4b59695,2023-05-04,127.46,3,Socks,fashion,3.1,2023-05-27,2024-03-12,FedEx,2024-03-17,delivered,PayPal
+d6ad842a-f2cc-416f-9df4-7319360946f6,2023-12-03,29.39,2,Dress,fashion,,,2024-08-25,DHL,2024-08-28,pending,Credit Card
+b9779a68-811b-4f36-8845-89128af2c720,2024-02-20,39.72,4,Laptop,electronics,4.7,2024-03-08,2024-09-28,DHL,2024-10-07,delivered,Debit Card
+8a6034b0-bcbe-48f6-bbcc-8a2812c0b3b4,2024-01-05,459.41,3,Camera,electronics,,,2024-10-29,FedEx,2024-11-04,pending,PayPal
+54e87676-2b1c-45a4-a9de-bc526443f2cd,2023-06-11,47.5,2,Tennis Racket,sports,,,2024-07-04,DHL,2024-07-18,shipped,PayPal
+21bf6a2e-77df-4c71-ad7f-9cfa6b2c0a50,2023-05-19,481.75,1,Cycling Helmet,sports,,,2024-08-08,FedEx,2024-08-20,shipped,PayPal
+ca6f304d-4633-4b72-a271-d021fb644101,2023-12-28,470.68,4,Sweater,fashion,,,2024-07-01,DHL,2024-07-04,shipped,PayPal
+e3e012f8-d741-45d8-a226-36675c81d447,2024-06-14,425.94,4,Dumbbells,sports,4.1,2024-06-24,2024-09-24,DHL,2024-10-04,delivered,PayPal
+60789be5-f42a-4841-8516-0fc700f83c6a,2024-08-10,452.83,4,Hair Dryer,beauty,,,2024-09-21,DHL,2024-09-27,pending,Credit Card
+88e3d4df-2b69-45ea-a0df-7e9dc2830a4e,2023-07-07,148.78,4,Tablet,electronics,,,2024-06-01,FedEx,2024-06-03,shipped,Credit Card
+ba547de7-5ac0-45a1-b9a1-f37ce7489c69,2023-04-21,254.79,1,Lipstick,beauty,4.8,2023-05-18,2024-11-04,UPS,2024-11-08,delivered,Credit Card
+be2a8b6e-15e4-4dad-8ac9-9f3f50af1daf,2023-07-11,54.01,3,Smartphone,electronics,,,2024-04-28,FedEx,2024-05-03,shipped,Debit Card
+9dc047a9-66bb-476f-a778-54169faea64f,2023-12-11,121.78,2,Mascara,beauty,,,2024-11-22,FedEx,2024-12-06,shipped,Debit Card
+9a93d4d6-0d89-41a8-b5e0-dc315426daac,2024-06-30,25.04,1,Conditioner,beauty,,,2024-11-06,FedEx,2024-11-21,pending,Debit Card
+b62249f5-018b-47be-ae9f-bf432ab1dfd3,2023-10-24,175.99,2,Tablet,electronics,,,2023-11-05,UPS,2023-11-17,pending,Credit Card
+0111145b-178a-4cc5-8eb8-a241f337012b,2023-10-20,111.14,1,Scarf,fashion,,,2024-05-22,DHL,2024-05-26,shipped,Credit Card
+b5ac5371-860d-40af-9bf3-6b1ef1eabc91,2024-09-18,320.51,1,Toaster,home,4.0,2024-10-14,2024-11-25,FedEx,2024-12-09,delivered,PayPal
+acdb774e-1dff-4e86-a7b6-23daf43fac3d,2023-03-27,77.2,5,Scarf,fashion,,,2023-07-15,FedEx,2023-07-29,pending,Debit Card
+6e809d70-5ec7-4d69-bd19-31bfcf49510a,2023-07-14,318.35,5,Desk,home,,,2024-04-02,DHL,2024-04-11,shipped,Credit Card
+8a978547-3527-4d29-9bf9-2b69499f12c0,2023-11-21,318.9,2,Perfume,beauty,,,2024-04-08,UPS,2024-04-21,pending,PayPal
+1e5b1dbb-380c-4f33-b7e7-a3b643e678bd,2023-06-11,299.45,3,Sneakers,fashion,,,2024-07-11,FedEx,2024-07-20,pending,Credit Card
+4f91d396-2d69-4e04-80c5-ea5f78ab403d,2023-07-18,435.7,4,Jeans,fashion,,,2023-09-17,DHL,2023-09-22,shipped,PayPal
+973634a5-b8c5-4889-b674-15c23dfee60e,2023-06-18,135.38,3,Jeans,fashion,,,2024-01-20,FedEx,2024-01-27,shipped,PayPal
+1a91121b-39b9-4044-9ca0-e9d732452f40,2024-07-08,109.37,2,Printer,electronics,,,2024-07-10,UPS,2024-07-22,pending,Credit Card
+595b746c-d85e-417b-9103-56588542766c,2023-04-05,345.76,5,Shirt,fashion,3.9,2023-04-05,2023-12-28,UPS,2024-01-09,delivered,Credit Card
+21da9f72-a939-4835-8fd3-1e943c97e973,2024-08-05,291.02,5,Smartphone,electronics,,,2024-11-16,UPS,2024-11-18,shipped,Credit Card
+ceef05b1-2288-47da-b3ad-14d09b606f49,2024-02-02,92.73,2,Smartwatch,electronics,,,2024-04-13,UPS,2024-04-25,pending,PayPal
+76526b23-2e50-4a56-9ebe-fd55351ac50b,2024-02-19,95.3,2,Running Shoes,sports,,,2024-05-14,FedEx,2024-05-24,pending,Credit Card
+5ce5f75c-c963-47e1-ba10-d1398dec753f,2023-02-07,185.45,1,Printer,electronics,,,2023-11-04,DHL,2023-11-05,shipped,Debit Card
+21f5752b-1d75-4733-8d49-6eb1a54c92a4,2023-05-08,434.05,4,Bluetooth Speaker,electronics,,,2024-12-05,DHL,2024-12-15,shipped,PayPal
+48a13598-bcc9-4871-8ad3-e4404b3a63f4,2024-02-12,198.64,1,Socks,fashion,,,2024-08-27,FedEx,2024-09-11,pending,PayPal
+73fb8ca7-a92f-4e2a-a789-0cf1d91dd785,2023-04-19,474.44,5,Conditioner,beauty,,,2024-04-30,DHL,2024-05-15,shipped,Credit Card
+c33cd628-448a-495a-9c44-37af652706fe,2023-04-12,223.75,3,Yoga Mat,sports,1.9,2023-04-29,2023-12-26,UPS,2023-12-29,delivered,Credit Card
+b8c99f0c-57bc-4660-8d57-1fb3fba6626a,2024-08-29,402.84,5,T-shirt,fashion,,,2024-11-08,FedEx,2024-11-14,pending,Credit Card
+7c782c48-e5d0-4a84-96a5-d5063046849a,2024-01-11,150.38,5,Headphones,electronics,3.2,2024-01-30,2024-04-07,UPS,2024-04-10,delivered,PayPal
+bb18797b-6fa7-4f01-8a3f-b541756ede75,2024-03-27,495.04,4,Basketball,sports,,,2024-06-21,UPS,2024-07-04,shipped,Credit Card
+5a9e1268-78fc-4488-861f-ed15d26ddc2f,2024-09-11,129.28,2,Socks,fashion,,,2024-11-02,FedEx,2024-11-10,shipped,Debit Card
+b47f6c84-61f7-4d01-8c7c-450951fe7768,2024-06-06,144.99,3,Tennis Racket,sports,,,2024-12-10,FedEx,2024-12-18,pending,Credit Card
+4df28d69-b2c3-4770-b897-d92e4551b2ae,2023-10-21,242.76,3,Sneakers,fashion,3.1,2023-10-24,2023-10-29,FedEx,2023-11-02,delivered,Debit Card
+6a96a2eb-cd41-48cf-86ec-1c5af5243606,2024-07-20,154.95,1,Bookshelf,home,1.1,2024-08-07,2024-10-01,UPS,2024-10-05,delivered,PayPal
+140f4531-9e68-4ee0-8bd8-62df0df825b5,2024-05-09,414.42,4,Tennis Racket,sports,,,2024-07-15,FedEx,2024-07-15,shipped,PayPal
+9fe9d46a-c062-4e62-b9e4-308776984b20,2024-07-25,188.85,3,Air Conditioner,home,,,2024-08-28,FedEx,2024-09-12,pending,PayPal
+c482d127-5227-4066-85ad-ba88d257c434,2024-07-14,103.8,1,Conditioner,beauty,3.0,2024-07-29,2024-08-08,DHL,2024-08-23,delivered,Credit Card
+6a5bc644-9b7c-41e5-b624-5a47155beb78,2024-08-02,270.93,1,Bookshelf,home,,,2024-12-04,DHL,2024-12-13,shipped,Debit Card
+30b82e8c-8203-4a5a-a9c9-cac1d522f733,2023-05-22,100.77,3,Sneakers,fashion,,,2023-07-24,UPS,2023-08-06,pending,Debit Card
+e49fa6ba-1412-4d78-82cc-4bdd363642d3,2024-04-09,349.48,1,Shampoo,beauty,,,2024-10-28,FedEx,2024-11-02,shipped,Debit Card
+ce9d493b-bf4e-490c-9229-65a8d50965bc,2023-02-11,40.5,5,Nail Polish,beauty,0.2,2023-03-05,2023-04-20,FedEx,2023-04-23,delivered,Debit Card
+d9a3c720-6f6c-48f9-bd34-542cd7ee77c7,2024-05-26,289.25,1,Basketball,sports,,,2024-07-17,FedEx,2024-07-26,shipped,Credit Card
+ce1eb649-fc21-4ba0-91e4-2cbe5f3aecff,2023-08-06,332.99,5,Conditioner,beauty,,,2024-02-20,UPS,2024-02-20,shipped,PayPal
+3a93bbab-4d97-4127-ac62-fbb10d3d4cf7,2024-09-15,401.86,3,Lamp,home,,,2024-10-26,UPS,2024-11-05,pending,PayPal
+27ac435f-7c9c-466c-9c93-0e97e2f904cd,2024-01-23,385.33,1,Bookshelf,home,1.4,2024-02-04,2024-07-05,FedEx,2024-07-09,delivered,Credit Card
+0363d20d-1335-4c7d-86a3-3c8c09c88717,2023-02-09,62.37,4,Nail Polish,beauty,3.6,2023-02-28,2024-05-25,DHL,2024-05-31,delivered,PayPal
+c32a03cc-2c4a-40f4-83bb-39dfa915710c,2024-03-20,430.39,1,Toaster,home,,,2024-08-13,FedEx,2024-08-25,shipped,Credit Card
+d7b0e0b2-c932-4027-aaa4-cac1ceaf6100,2024-01-19,269.8,3,Dumbbells,sports,,,2024-02-14,UPS,2024-02-22,pending,Debit Card
+d4f9e726-9fdf-4da8-af8f-888231066e7e,2024-07-01,409.93,5,Soccer Ball,sports,,,2024-08-09,UPS,2024-08-13,pending,Debit Card
+8fc084da-0d37-44b1-aa1e-c8b4a931e18a,2024-08-26,332.44,5,Golf Club,sports,2.9,2024-09-19,2024-10-08,FedEx,2024-10-08,delivered,PayPal
+e67a5205-3512-481f-a709-ff7566b2e0c0,2023-06-02,286.89,2,Lamp,home,4.9,2023-06-11,2024-05-29,FedEx,2024-06-01,delivered,Debit Card
+201cda4a-a21c-4ad8-8f85-df06755f75ea,2024-07-18,418.81,3,Lamp,home,4.9,2024-08-15,2024-11-26,UPS,2024-12-11,delivered,PayPal
+46805b81-cd1b-4815-81a5-79a73533cb40,2023-03-08,101.42,5,Dress,fashion,,,2024-05-17,FedEx,2024-05-17,shipped,Credit Card
+68221bf0-c160-4ed8-b529-380380492b60,2024-07-07,91.61,2,Cycling Helmet,sports,0.4,2024-07-08,2024-10-21,FedEx,2024-10-27,delivered,Credit Card
+0630d454-d2e0-4577-b735-00059f8bab84,2023-02-01,141.43,2,Dress,fashion,,,2023-03-10,UPS,2023-03-20,pending,Credit Card
+477356d4-c355-4717-a993-3cd28444e8bb,2023-04-07,83.27,5,Jeans,fashion,,,2024-09-17,UPS,2024-09-23,shipped,Credit Card
+29e50d85-45d3-4b81-a566-f52119c7c44c,2023-01-18,92.94,5,Lamp,home,,,2024-07-22,DHL,2024-07-26,shipped,PayPal
+92b25269-bf7c-41a2-9daf-134db0081a78,2024-06-19,273.82,4,Laptop,electronics,,,2024-06-26,DHL,2024-06-30,pending,PayPal
+73fb0f07-dc44-448a-ba8d-0c59093a81fc,2023-06-09,388.91,2,Jeans,fashion,,,2024-10-16,FedEx,2024-10-31,pending,PayPal
+a420018d-f473-435f-ad00-98f3080c74ce,2023-04-13,24.1,4,Lipstick,beauty,4.7,2023-04-24,2024-08-25,UPS,2024-09-08,delivered,Debit Card
+767c88e2-7535-493f-a95b-0a4c535095ec,2024-06-17,176.22,4,Jeans,fashion,,,2024-12-01,FedEx,2024-12-06,pending,Credit Card
+f1925e4c-e57d-47a5-9066-c6b6580a187d,2023-12-15,232.89,2,Soccer Ball,sports,,,2024-07-21,UPS,2024-07-24,pending,Credit Card
+cb82861a-1003-41c1-84bf-29ff0a61789e,2023-11-14,487.25,5,Basketball,sports,,,2024-02-26,FedEx,2024-03-09,shipped,Credit Card
+057cd784-6ea3-4070-a1d6-7c151871fda7,2024-09-28,277.53,1,Tennis Racket,sports,,,2024-10-14,DHL,2024-10-27,shipped,Debit Card
+e2460166-b844-4a20-846a-8e34ef7bc64d,2023-12-10,398.83,5,Dress,fashion,,,2024-06-15,DHL,2024-06-22,shipped,PayPal
+ef2c0f98-c756-4426-97d8-b637182ace3e,2023-04-16,453.48,2,Golf Club,sports,,,2023-06-24,FedEx,2023-07-05,shipped,PayPal
+7dba3ef8-2bc6-4e8b-bdf6-162a47631dc8,2023-04-15,261.09,2,Baseball Bat,sports,,,2024-11-07,DHL,2024-11-18,shipped,Debit Card
+2a787356-4c2b-4ee0-a280-8f2d80b9001b,2023-08-23,475.22,4,Hat,fashion,,,2024-12-16,FedEx,2024-12-18,shipped,Debit Card
+7835fd07-3727-4b57-9913-8df40e58a239,2023-09-28,239.83,1,Conditioner,beauty,,,2024-02-11,FedEx,2024-02-11,pending,Credit Card
+d6f0b86b-7be2-4de4-b8ad-b32c2c5379b0,2024-08-09,130.29,1,Sweater,fashion,,,2024-10-31,DHL,2024-11-14,shipped,Debit Card
+7aa9a949-6a6a-4cf0-874a-f343481dad2c,2023-05-14,127.77,3,Soccer Ball,sports,0.0,2023-06-02,2024-04-11,DHL,2024-04-12,delivered,Debit Card
+852f384b-986a-4c1f-a070-3fe7908fbc91,2023-06-09,371.06,5,Jacket,fashion,,,2023-07-29,UPS,2023-07-29,pending,Debit Card
+f8db03ea-0b7c-4087-b839-2bea51fd44a4,2024-04-19,357.85,4,Curtains,home,,,2024-09-04,DHL,2024-09-04,shipped,Debit Card
+bd03539f-14de-49ce-bca9-54f9e41b856b,2024-09-22,282.51,2,Golf Club,sports,,,2024-10-09,DHL,2024-10-11,pending,Debit Card
+b08b0a10-5fe7-4c59-9cc8-b1a551837703,2024-05-26,423.12,4,Tablet,electronics,1.8,2024-06-14,2024-09-13,FedEx,2024-09-23,delivered,Debit Card
+75058b09-1a79-43d5-a557-326e87284b07,2023-02-27,264.54,3,Scarf,fashion,,,2023-05-15,UPS,2023-05-29,shipped,PayPal
+c43ec7f5-cf64-4086-8c8f-a4d807334193,2023-12-13,429.59,3,Dumbbells,sports,4.1,2023-12-26,2024-06-17,UPS,2024-06-20,delivered,Credit Card
+64d518c3-ef5b-49e4-9492-2faf5bbb4c0b,2023-02-06,287.17,2,Coffee Table,home,,,2023-12-04,UPS,2023-12-07,pending,Credit Card
+dbd72d7b-50f7-4a78-b492-877e642dba07,2023-02-26,162.03,3,Desk,home,,,2023-03-06,DHL,2023-03-17,pending,PayPal
+cc28fc91-4f67-483d-b8f2-c935c8124b9c,2023-02-01,424.8,2,Lamp,home,,,2024-08-08,UPS,2024-08-18,shipped,Debit Card
+0b39146b-dd65-4d9d-9cc4-9f0e17770922,2024-03-23,301.94,1,Hat,fashion,4.6,2024-04-18,2024-10-28,FedEx,2024-11-02,delivered,Credit Card
+01a40f5f-7b6f-4dd7-b44f-6ddd06d47be6,2023-12-01,297.9,2,Running Shoes,sports,,,2024-01-31,UPS,2024-02-04,pending,Debit Card
+0e476862-0fcd-421d-be39-53a0d17c4f85,2023-11-15,23.86,3,Mascara,beauty,0.7,2023-11-21,2024-02-06,UPS,2024-02-10,delivered,Credit Card
+3d19a349-3ecc-49f5-95de-62b063c08f7a,2024-09-06,55.16,5,Desk,home,,,2024-10-04,UPS,2024-10-15,pending,PayPal
+1b60b865-2a1d-427e-8124-bda4ccd1b05a,2023-01-12,466.18,5,Lamp,home,,,2024-09-16,FedEx,2024-09-27,pending,Credit Card
+567df37a-88ae-49db-8b56-264f0173cf13,2023-11-03,341.09,5,Running Shoes,sports,,,2023-12-04,FedEx,2023-12-16,shipped,PayPal
+47b85996-8603-4d57-9ff1-5701870f450d,2024-01-05,471.8,5,Shirt,fashion,,,2024-09-06,DHL,2024-09-21,shipped,Debit Card
+6044e87a-77af-4a09-8a38-37103101dddd,2024-08-10,281.12,3,Face Cream,beauty,,,2024-09-28,DHL,2024-10-12,shipped,PayPal
+03576886-ca43-4d93-91fe-6253d74b0b8e,2023-10-13,418.85,3,Conditioner,beauty,,,2024-04-24,FedEx,2024-04-29,shipped,Debit Card
+441a58dd-2321-4cd7-bd62-d93a07f29599,2024-05-05,446.05,1,Mascara,beauty,,,2024-07-28,UPS,2024-07-28,shipped,Debit Card
+fc3e2522-8f08-4b1c-be04-d67f50d98a62,2023-10-27,244.24,2,Cycling Helmet,sports,2.3,2023-11-05,2024-12-06,DHL,2024-12-10,delivered,Credit Card
+36350d2d-47f3-4572-b09f-e628b8f0d555,2023-07-26,347.04,2,Makeup Brush,beauty,,,2024-10-19,FedEx,2024-11-03,pending,PayPal
+d335148a-3cf0-43a9-82e7-1ad7d96f7d6e,2023-11-10,43.31,2,Coffee Table,home,,,2024-02-19,FedEx,2024-02-24,shipped,Debit Card
+036ce0c4-e9bb-4a48-8e2e-86162ba5cc9f,2023-01-07,253.87,3,Basketball,sports,,,2024-03-09,UPS,2024-03-16,pending,Credit Card
+80847a59-5007-4237-804c-eba449b6801c,2024-07-03,283.92,5,Conditioner,beauty,,,2024-10-02,FedEx,2024-10-07,pending,PayPal
+ac1789d9-d556-4cd0-97ce-a58ed3a6f71d,2023-02-11,413.34,3,Socks,fashion,,,2023-08-09,UPS,2023-08-10,pending,Credit Card
+ec24de8d-f9d7-401f-bb4d-1d9ce9c5a353,2023-04-22,300.96,5,Mascara,beauty,,,2024-04-02,FedEx,2024-04-08,shipped,Debit Card
+23505115-a7e6-44e7-a733-8bf8b8d978dd,2024-03-27,376.17,2,Shirt,fashion,,,2024-12-13,UPS,2024-12-19,pending,Credit Card
+0639794a-21b9-439d-8b2a-e93f27d76835,2023-06-22,267.63,3,Golf Club,sports,,,2023-12-12,UPS,2023-12-22,shipped,PayPal
+65409d28-53bf-49c3-9058-f90d8a3c661c,2023-08-19,410.19,4,Scarf,fashion,0.9,2023-08-29,2023-11-05,DHL,2023-11-19,delivered,Debit Card
+01ddc870-443b-47b6-b4ee-b08f500b5deb,2023-12-29,293.78,4,Cycling Helmet,sports,,,2024-01-28,UPS,2024-02-08,pending,PayPal
+dc61f7d1-6767-4beb-b965-c57e832249b2,2023-04-11,234.78,2,Dumbbells,sports,,,2023-09-12,FedEx,2023-09-16,shipped,Debit Card
+e4346094-cbf9-4e63-83a7-bb012d52b45f,2023-01-07,211.9,1,Curtains,home,,,2024-08-18,UPS,2024-08-29,shipped,Debit Card
+e90d00ed-2f50-497e-b3f5-783881050980,2023-03-24,202.44,5,Mascara,beauty,,,2023-10-12,DHL,2023-10-16,pending,Debit Card
+116ea7ca-8694-4ffc-b013-6c9a86ee4472,2024-02-04,248.65,3,Laptop,electronics,,,2024-12-12,UPS,2024-12-26,pending,Debit Card
+e832ba3b-7172-41d6-94cb-3ea36a2f35ef,2023-08-13,92.7,1,T-shirt,fashion,,,2024-08-22,DHL,2024-08-30,shipped,PayPal
+c3da480e-eb32-4689-8f32-ec0bd170fb4c,2023-11-05,483.92,3,Printer,electronics,,,2024-06-12,DHL,2024-06-26,shipped,Debit Card
+3955aa4d-522b-4d87-ba5b-765a86053472,2023-08-10,386.8,2,Coffee Table,home,,,2024-12-11,UPS,2024-12-13,pending,Credit Card
+8462466b-cc17-4ba1-a66a-87818fa58dd3,2024-04-04,157.33,1,Conditioner,beauty,4.5,2024-04-30,2024-09-28,FedEx,2024-10-04,delivered,Credit Card
+3243669d-6b59-4edf-addf-53a06b7c86ea,2023-09-02,424.25,5,Printer,electronics,3.0,2023-09-20,2024-12-08,DHL,2024-12-21,delivered,PayPal
+b265512d-41e8-4429-83aa-8e450efac343,2024-01-03,375.83,5,Printer,electronics,2.1,2024-01-26,2024-06-12,FedEx,2024-06-22,delivered,Debit Card
+405f958c-f3fb-4187-a61e-a9fe7b29c30d,2023-07-23,170.98,4,T-shirt,fashion,,,2023-08-30,FedEx,2023-09-01,pending,PayPal
+579ca011-fe99-4d54-9b42-3743ab9e0dc2,2023-12-18,408.77,5,Tennis Racket,sports,,,2024-02-17,FedEx,2024-02-18,pending,Debit Card
+456c3405-4fc4-4d72-9514-3e1887e19f58,2023-07-16,427.25,3,Tennis Racket,sports,,,2024-07-27,FedEx,2024-08-09,shipped,Credit Card
+2ec5cca9-836a-4c95-9a43-2b77e05c0226,2023-03-09,220.74,2,Golf Club,sports,3.2,2023-03-25,2024-03-03,DHL,2024-03-15,delivered,PayPal
+83e67808-b757-405d-94ce-17469723beb8,2024-03-11,171.24,2,Sneakers,fashion,,,2024-11-15,FedEx,2024-11-27,shipped,Credit Card
+51f58a0b-b6d8-4f87-bf12-06b389629086,2024-02-09,469.09,5,Hair Dryer,beauty,,,2024-11-15,UPS,2024-11-21,shipped,Credit Card
+b07a79b8-c7ab-4720-9f91-f15094be0091,2024-09-15,219.1,3,Sweater,fashion,,,2024-11-13,FedEx,2024-11-17,shipped,PayPal
+2ea3bff5-5982-4dcd-b79b-e47f169dd03a,2023-08-19,97.65,2,Sneakers,fashion,,,2024-12-11,UPS,2024-12-19,shipped,PayPal
+3d1056b1-5e37-4436-8626-dceb88da378f,2024-05-26,413.97,5,Laptop,electronics,,,2024-07-29,DHL,2024-07-29,pending,Credit Card
+071291e8-afa6-4297-9bd4-008d0910ae51,2023-01-22,198.7,1,Curtains,home,,,2024-10-14,FedEx,2024-10-20,pending,PayPal
+d070263f-d30d-4ccc-96e7-dbd99b85fe9f,2023-09-05,466.89,5,Body Lotion,beauty,,,2024-01-10,UPS,2024-01-23,shipped,Credit Card
+0a9e61d2-9e85-43c5-b94c-501bd3995e2a,2023-01-28,292.59,2,Hair Dryer,beauty,1.5,2023-02-03,2023-02-21,FedEx,2023-03-01,delivered,PayPal
+d5ab9258-36ff-4141-bf1d-4a95543ecf05,2024-07-23,115.27,4,Desk,home,,,2024-10-26,UPS,2024-11-10,shipped,Credit Card
+616f6c43-8d76-4e82-95fb-e825902731e5,2024-09-07,105.01,5,Jeans,fashion,,,2024-12-07,UPS,2024-12-20,pending,Credit Card
+8732a54d-047f-4ed3-b000-fa1f3080a73d,2024-08-16,362.49,5,Shirt,fashion,0.9,2024-08-24,2024-12-02,FedEx,2024-12-09,delivered,Debit Card
+ba94c495-f155-4366-baf3-7629cb8e3705,2024-07-07,154.17,4,Tennis Racket,sports,,,2024-10-15,DHL,2024-10-16,shipped,Credit Card
+9e54084d-6e6f-40f0-b576-c10b830bdfc9,2023-12-07,96.56,3,Yoga Mat,sports,,,2024-08-19,UPS,2024-08-21,shipped,PayPal
+9dba757e-1510-402c-8f79-71b11af6d921,2024-08-07,435.95,3,Tablet,electronics,,,2024-12-05,UPS,2024-12-08,shipped,Credit Card
+51ca5142-6285-489d-b2f9-4271680fa218,2023-05-14,487.71,2,Laptop,electronics,,,2024-04-08,FedEx,2024-04-11,shipped,Debit Card
+550a1a1c-56b0-4ab0-af2f-d5db2084b2d4,2023-11-03,479.77,1,Mascara,beauty,,,2023-11-23,FedEx,2023-12-04,pending,Credit Card
+423da8c9-9684-4571-8461-db4caee16831,2024-04-10,54.87,1,Shampoo,beauty,,,2024-10-24,FedEx,2024-10-25,pending,Debit Card
+0e95b917-8405-42e4-b0ac-0bb04eb5a6cb,2024-03-13,404.98,2,Desk,home,,,2024-12-07,UPS,2024-12-17,shipped,Credit Card
+181a9160-1ab7-486c-b883-18f1ad6000c2,2024-09-15,324.54,2,Curtains,home,,,2024-09-23,DHL,2024-10-02,shipped,Debit Card
+26638421-e7e6-4625-8f32-a0938c290a3b,2024-01-02,21.07,2,Chair,home,4.3,2024-01-25,2024-01-21,DHL,2024-01-26,delivered,PayPal
+56f7e524-ca6e-4f12-8ad7-b8aeb4bdcac4,2023-05-29,175.03,4,Body Lotion,beauty,1.4,2023-06-24,2023-11-16,UPS,2023-11-23,delivered,Credit Card
+73e50aa3-3f54-47b7-abd1-e826dbb3587b,2023-01-05,325.25,4,Perfume,beauty,,,2023-04-10,DHL,2023-04-12,shipped,Credit Card
+7f14fff5-9b2f-4f3c-92fa-ba582db7d7dc,2024-03-02,162.79,2,Tennis Racket,sports,,,2024-11-13,UPS,2024-11-16,pending,Credit Card
+433bc55d-35e5-416a-9bd2-546cdcbacb33,2023-09-28,62.89,5,Perfume,beauty,3.6,2023-10-22,2024-01-16,FedEx,2024-01-30,delivered,Credit Card
+041e2c51-fe35-4028-91c6-75964c528498,2023-09-06,51.28,1,Cycling Helmet,sports,2.4,2023-09-28,2024-08-17,UPS,2024-09-01,delivered,PayPal
+696f78c9-b0ad-4d3d-9cd8-58dda702ad13,2024-03-26,459.42,2,Conditioner,beauty,0.7,2024-04-13,2024-03-31,FedEx,2024-04-02,delivered,PayPal
+6d5d1979-edc5-4b92-b037-069143152b52,2023-07-25,101.2,4,Jeans,fashion,4.6,2023-07-26,2023-09-07,UPS,2023-09-10,delivered,PayPal
+f55a7b84-e329-4091-ab99-a241f4a4e164,2024-05-30,248.02,1,Camera,electronics,,,2024-11-16,UPS,2024-11-19,pending,PayPal
+8e8b4ddc-b922-47ad-9806-4b85435d5d7c,2023-12-02,286.24,3,Scarf,fashion,4.5,2023-12-26,2024-09-14,FedEx,2024-09-16,delivered,PayPal
+882bdcde-9e38-4fb4-a5c4-40973d7c4f07,2023-09-21,373.36,4,Golf Club,sports,,,2024-02-20,FedEx,2024-03-06,shipped,Credit Card
+78779f01-2384-488f-97bb-1e9eb0619994,2023-11-11,351.27,1,Socks,fashion,1.3,2023-12-06,2024-09-02,DHL,2024-09-02,delivered,Credit Card
+ff22a5d6-ccc3-4c8a-a44c-1e50ad1851ac,2024-03-27,271.24,3,Socks,fashion,,,2024-10-23,FedEx,2024-11-05,pending,Debit Card
+b28de70b-c831-4ed5-853b-4cbef4e6b29a,2024-01-21,442.66,2,Laptop,electronics,4.4,2024-02-03,2024-07-31,DHL,2024-08-14,delivered,PayPal
+b45fac52-fd29-431c-ab6a-0299e7dc67b7,2023-09-28,385.47,3,Shampoo,beauty,1.9,2023-10-24,2024-11-26,FedEx,2024-12-04,delivered,Credit Card
+0f7caf3c-8498-4dc5-a626-3fca32d14a9b,2023-06-14,187.04,5,Body Lotion,beauty,,,2024-09-07,UPS,2024-09-09,shipped,Credit Card
+93329b4e-7955-465a-9335-10e832b86f56,2023-03-31,430.52,4,Sweater,fashion,,,2024-12-07,DHL,2024-12-08,shipped,Debit Card
+e95aee6c-52da-464e-bce1-b7a953303100,2023-03-04,151.82,1,Tennis Racket,sports,3.5,2023-03-28,2023-10-23,UPS,2023-10-29,delivered,Credit Card
+e0136eed-2f11-4e42-98da-31427b01e6b5,2023-09-28,329.76,1,Golf Club,sports,,,2024-08-18,DHL,2024-08-22,pending,Debit Card
+f867c85c-468b-427b-831c-89015870b6b7,2023-02-22,421.67,5,Chair,home,1.4,2023-03-04,2024-03-28,DHL,2024-03-31,delivered,Credit Card
+842d4c46-54aa-4904-921a-b6e92065c87f,2024-03-26,202.66,5,Laptop,electronics,,,2024-08-21,DHL,2024-08-24,shipped,Debit Card
+7c3fc539-3bf9-4213-b9a7-64d98883be0e,2024-02-24,120.08,3,Cycling Helmet,sports,,,2024-12-13,DHL,2024-12-23,shipped,PayPal
+3ebd0b7c-8d8a-43f1-be61-224b137f18da,2024-07-10,481.78,3,Dining Table,home,,,2024-11-19,FedEx,2024-11-27,shipped,Debit Card
+d0515644-e927-474e-923c-2f7a120687c2,2023-09-12,221.97,4,Game Console,electronics,,,2024-09-02,UPS,2024-09-15,shipped,Debit Card
+98e83dc6-3986-46dc-9805-c31fe71ce521,2024-08-09,233.17,5,Lamp,home,2.9,2024-08-13,2024-12-10,FedEx,2024-12-23,delivered,Credit Card
+2772eb49-8a0b-4ce1-b77b-a2dba32038f5,2024-07-31,67.77,5,TV,electronics,,,2024-11-24,UPS,2024-12-03,shipped,Credit Card
+d802b60b-e1ec-42a5-b40c-3a61828522a7,2024-04-06,46.78,2,Hat,fashion,,,2024-06-04,UPS,2024-06-11,shipped,Debit Card
+6af6c942-e07d-45b5-acde-c14d9d7cd847,2024-04-10,301.59,5,Running Shoes,sports,,,2024-09-28,FedEx,2024-09-30,pending,Debit Card
+a76f1d10-4f71-428e-a53a-ceada7ca81ce,2023-12-27,38.49,1,Conditioner,beauty,,,2024-02-25,DHL,2024-02-29,shipped,Credit Card
+92af736e-dc67-4a58-8c39-6be790e2fb1b,2023-11-25,46.94,3,Jeans,fashion,,,2024-03-11,UPS,2024-03-24,pending,Credit Card
+82c569f8-895e-4c78-8fd4-b15f62126e73,2024-02-25,442.41,1,Chair,home,,,2024-05-11,FedEx,2024-05-25,pending,Credit Card
+60de09fe-7b28-433f-bc31-e2fb7a7f81b3,2024-07-04,410.28,5,Desk,home,,,2024-09-20,UPS,2024-09-30,pending,Credit Card
+910160a4-0d5c-479e-9e6e-d204295b59b9,2023-12-20,294.91,1,Desk,home,,,2024-07-16,UPS,2024-07-22,pending,PayPal
+c9a96ac1-a89e-45af-b689-b94d58a6805d,2024-08-19,209.17,3,Jeans,fashion,,,2024-10-17,FedEx,2024-10-19,shipped,Debit Card
+9eb88918-d39c-435d-b181-e53c9623f384,2024-04-12,153.77,2,Game Console,electronics,2.2,2024-05-12,2024-06-19,UPS,2024-06-23,delivered,PayPal
+22819322-1f90-4c2a-bdb2-2dae55d9cfee,2024-07-12,408.77,3,Conditioner,beauty,,,2024-10-11,DHL,2024-10-21,shipped,Credit Card
+0fceb309-6245-4cd0-acfe-29240f8b2311,2024-04-13,283.67,3,Mascara,beauty,,,2024-07-30,DHL,2024-07-30,shipped,Debit Card
+d1e572b8-9171-4ffd-8a14-6cac1952f704,2023-01-24,367.62,5,T-shirt,fashion,,,2024-10-12,FedEx,2024-10-19,shipped,Credit Card
+c9f39043-e4fd-417a-b539-879a4e3cc55c,2023-09-04,431.25,5,Coffee Table,home,,,2024-06-10,DHL,2024-06-12,shipped,Debit Card
+cb15a4ac-cfd0-4a1d-92d1-2459c78a9763,2024-01-22,284.07,4,Scarf,fashion,2.7,2024-02-17,2024-10-09,DHL,2024-10-09,delivered,Credit Card
+db2b05fc-ad9c-4615-a9b2-0359428c7b1b,2023-03-26,456.49,5,Tablet,electronics,,,2024-08-18,DHL,2024-08-20,pending,PayPal
+365c78a6-7078-4788-b8f5-dd24ebf80dd7,2023-08-11,389.04,2,Bluetooth Speaker,electronics,,,2024-02-28,UPS,2024-03-06,pending,PayPal
+0d36fa3e-7830-4935-95ca-703cd6a65816,2024-09-21,407.32,3,Tennis Racket,sports,,,2024-09-24,FedEx,2024-09-30,shipped,Credit Card
+2efd3caa-d859-45e8-88c6-bb2e774d5256,2024-08-04,421.55,2,Curtains,home,,,2024-12-06,FedEx,2024-12-07,shipped,Debit Card
+657073ab-392b-451b-ac8f-e8f9936f3d6c,2023-11-06,238.63,5,Baseball Bat,sports,,,2024-10-16,FedEx,2024-10-29,pending,Credit Card
+0877ac0a-3a3b-46d0-b8c1-56aa869291dd,2024-03-31,417.26,2,Curtains,home,,,2024-05-02,FedEx,2024-05-08,pending,PayPal
+257e499b-b758-4075-88d3-c5ab40f98316,2023-11-03,275.12,3,T-shirt,fashion,,,2024-12-01,UPS,2024-12-06,pending,PayPal
+4a63aed7-072e-49bf-aece-495590f4fa66,2023-04-08,81.79,5,Sweater,fashion,,,2024-05-25,DHL,2024-05-31,shipped,Debit Card
+8e30dda2-67fd-47cd-9c23-bdb1b05fffd7,2023-06-20,376.6,1,Hair Dryer,beauty,0.8,2023-06-20,2024-09-11,FedEx,2024-09-16,delivered,Credit Card
+5aeaad34-e50a-4324-b6fa-1a8aa8340822,2023-06-25,262.48,5,Curtains,home,,,2024-11-07,UPS,2024-11-15,shipped,PayPal
+fa271c4b-a8ba-4c94-a48b-6fb13e7d225e,2024-04-16,162.26,2,Tennis Racket,sports,1.1,2024-04-27,2024-10-19,FedEx,2024-10-29,delivered,PayPal
+e5a98d62-610b-4ccc-8cc4-2164a6282ccb,2024-07-13,237.55,1,Chair,home,3.6,2024-08-11,2024-11-20,DHL,2024-12-03,delivered,PayPal
+21b6e6d3-6664-4f0e-8c84-1b867130a04a,2024-04-23,451.4,4,Makeup Brush,beauty,,,2024-12-13,FedEx,2024-12-26,pending,Credit Card
+a915c4b1-455e-4f4d-aa79-8775dad30b66,2023-10-31,463.94,2,Basketball,sports,,,2024-12-14,UPS,2024-12-14,shipped,Credit Card
+dd74f65c-0be4-45bc-92e8-dcc33a5da2cf,2023-04-30,273.74,5,Game Console,electronics,2.8,2023-04-30,2023-06-23,UPS,2023-07-02,delivered,Debit Card
+d663c8ee-02aa-42f6-8ee2-48525df85655,2024-02-28,53.61,1,Sneakers,fashion,,,2024-07-07,FedEx,2024-07-14,pending,Debit Card
+c993c4df-81c1-4b8f-a7c5-4f0d5a6f301e,2023-01-15,301.08,3,Couch,home,,,2024-03-14,FedEx,2024-03-26,pending,PayPal
+3a91cc16-9793-4595-9931-aa2d0c206fe1,2023-01-09,495.95,4,Chair,home,3.6,2023-02-07,2024-11-08,DHL,2024-11-18,delivered,Credit Card
+5de58779-d2c8-40a1-b994-285baedcc9d4,2024-02-27,237.13,1,Coffee Table,home,,,2024-08-16,DHL,2024-08-20,pending,PayPal
+64554d10-2791-401e-b619-bfb0e03d65f3,2023-11-29,46.51,5,Tablet,electronics,,,2024-02-13,UPS,2024-02-16,shipped,Credit Card
+42e14bc3-81af-4cc3-82f8-00a48cddac01,2024-04-09,106.06,3,Coffee Table,home,3.0,2024-05-04,2024-05-09,UPS,2024-05-19,delivered,PayPal
+112cd371-786c-444f-95c4-c515f3ef3254,2023-02-04,357.77,3,Headphones,electronics,0.2,2023-02-16,2023-02-15,FedEx,2023-02-25,delivered,Debit Card
+f0ff41bb-2c77-4e05-9de8-93392082b1d6,2023-03-05,103.04,2,Curtains,home,,,2023-07-29,UPS,2023-08-03,shipped,PayPal
+552e3f04-b606-47b7-8ac4-37ffd4480709,2024-05-15,420.42,3,Conditioner,beauty,0.7,2024-06-10,2024-11-11,FedEx,2024-11-22,delivered,PayPal
+551c02d6-8a1c-4687-a642-066e12a62396,2023-07-27,292.45,5,Jeans,fashion,,,2024-10-13,UPS,2024-10-27,shipped,Credit Card
+9de01d63-7975-4681-983a-eff4dea70a53,2024-06-20,429.62,5,Jeans,fashion,,,2024-11-17,UPS,2024-11-17,shipped,PayPal
+41a16bc2-9f72-41f8-be2e-1a0b3f3e571b,2024-02-15,289.51,5,Makeup Brush,beauty,,,2024-09-13,DHL,2024-09-14,pending,Credit Card
+9be14e90-ab90-4d53-978c-3581138167dd,2024-03-31,383.1,1,Socks,fashion,1.7,2024-04-07,2024-09-08,DHL,2024-09-23,delivered,PayPal
+88b7f952-b12b-4555-a0ed-096f11f0e7d4,2023-09-24,390.77,2,Hat,fashion,,,2024-08-20,DHL,2024-09-02,shipped,PayPal
+4a3754b8-6987-4f50-9f35-0ccb012e573c,2024-06-03,30.58,3,Desk,home,,,2024-08-21,DHL,2024-08-22,shipped,Debit Card
+5a07dca2-215a-4bbb-b886-175ec1db013f,2024-08-28,408.17,3,Headphones,electronics,1.8,2024-09-14,2024-09-29,DHL,2024-09-30,delivered,Debit Card
+0facb53b-3240-4389-bdb8-888ff11eb494,2024-01-21,238.61,4,Printer,electronics,,,2024-04-08,FedEx,2024-04-17,pending,PayPal
+13a0de0e-00b7-4dc3-8d5a-1491b5ffeda7,2023-05-25,56.25,2,Running Shoes,sports,3.7,2023-06-13,2023-10-27,DHL,2023-11-06,delivered,Credit Card
+9c10e0ce-a182-4acd-9eb9-be07403b3ed1,2023-01-03,52.81,3,Hat,fashion,,,2024-05-02,UPS,2024-05-16,shipped,PayPal
+44633054-1d18-4e2c-8391-2b7593584120,2024-09-27,140.65,4,Dumbbells,sports,,,2024-10-24,FedEx,2024-11-02,shipped,Credit Card
+a4c18361-d721-4a94-a61c-96083bc91e2b,2023-03-07,392.56,2,Game Console,electronics,,,2023-04-24,UPS,2023-04-24,pending,Credit Card
+ef9a229c-2cec-46db-be05-8036e9bc654d,2024-06-13,27.53,2,Mascara,beauty,,,2024-09-04,FedEx,2024-09-17,pending,PayPal
+c4cd6143-b893-45a4-9458-4a59aab9db53,2024-08-12,173.6,1,Shampoo,beauty,,,2024-11-01,FedEx,2024-11-05,pending,Debit Card
+8e373835-40f0-44f4-929f-e870a8a212a4,2023-03-30,248.62,5,Hat,fashion,,,2024-01-03,FedEx,2024-01-11,pending,Credit Card
+5ad06de7-355d-43a6-bbbc-f14b7777939d,2023-12-24,240.68,2,Air Conditioner,home,5.0,2024-01-15,2024-12-01,DHL,2024-12-12,delivered,Debit Card
+e323ce08-7a9f-4c02-93de-19b46b9159a5,2023-03-14,73.97,4,Shirt,fashion,,,2023-07-18,DHL,2023-07-27,pending,Credit Card
+c533f8a4-ed44-40e6-aada-08a396c1ddb7,2023-03-13,458.85,1,Sweater,fashion,,,2024-09-08,DHL,2024-09-12,pending,Credit Card
+605720ec-a471-4c77-abcd-d229cc85ede0,2024-07-30,69.03,5,Shirt,fashion,,,2024-09-26,DHL,2024-10-07,pending,Debit Card
+d71f765c-7f53-46cb-be83-abca1479afa2,2024-01-14,477.11,5,Smartwatch,electronics,1.8,2024-01-23,2024-08-02,DHL,2024-08-05,delivered,Debit Card
+91a43d48-2274-48d6-8cec-8c311437571f,2023-01-11,176.24,5,Dumbbells,sports,,,2023-05-26,DHL,2023-06-10,shipped,Credit Card
+5c81720a-851a-4f69-8a9e-8219e0de10ad,2023-12-12,135.11,3,Makeup Brush,beauty,1.3,2023-12-18,2024-05-18,DHL,2024-05-21,delivered,PayPal
+c32ffa6f-4563-47a6-8561-d241dce749c7,2023-10-20,128.95,3,Bluetooth Speaker,electronics,4.8,2023-11-08,2024-01-24,DHL,2024-02-02,delivered,Credit Card
+8e403eb4-0c90-41cd-afbe-a6b05aa778ea,2024-07-05,316.55,5,Camera,electronics,1.9,2024-07-05,2024-12-03,FedEx,2024-12-10,delivered,Credit Card
+598d2d9f-9c61-46d3-9ca8-b12bca8a7b77,2023-10-05,203.95,2,Toaster,home,,,2024-02-14,FedEx,2024-02-17,shipped,PayPal
+885c783d-ca80-4fe9-9393-3e589427fa10,2023-02-10,478.91,2,Camera,electronics,,,2023-10-02,UPS,2023-10-14,pending,Credit Card
+dca37176-c9c3-4bde-9567-b157259e2c50,2023-07-21,281.87,2,Tennis Racket,sports,,,2024-01-23,FedEx,2024-01-27,pending,PayPal
+9ead4a66-1e87-4a3c-a17f-962245ac4774,2024-04-28,70.87,2,Shampoo,beauty,,,2024-06-29,UPS,2024-07-05,pending,PayPal
+d712f5ee-699d-42d4-97e2-38cade14bd06,2023-10-01,335.7,4,Yoga Mat,sports,2.1,2023-10-04,2024-01-14,FedEx,2024-01-14,delivered,Debit Card
+954fbde7-134c-4de0-8374-85974b3daaa0,2024-03-18,29.95,3,Bookshelf,home,,,2024-04-04,UPS,2024-04-05,shipped,PayPal
+ba8a1f07-f1a0-440e-ae6c-a05ff2a6643b,2023-01-25,425.86,2,Smartwatch,electronics,,,2023-10-08,UPS,2023-10-21,pending,Debit Card
+a31c927e-a91a-469f-bb2c-04b2908c9a97,2024-09-14,420.32,1,Mascara,beauty,,,2024-11-22,UPS,2024-11-24,shipped,PayPal
+bdb4b5ba-9d9c-4e97-aa16-13f5286f9134,2024-05-19,51.25,1,Jacket,fashion,,,2024-10-27,UPS,2024-10-29,shipped,Credit Card
+893b55c1-6b89-42f0-99d0-a163b65030b5,2023-11-24,255.62,2,Coffee Table,home,2.9,2023-11-30,2024-05-31,FedEx,2024-06-06,delivered,Debit Card
+8a5f2e53-ea10-4d01-a1bf-4796cc764f39,2023-08-02,55.52,3,Printer,electronics,3.6,2023-09-01,2023-11-10,DHL,2023-11-23,delivered,Debit Card
+ab7af5dd-9621-4180-a5ce-6e9af1f6a9ff,2023-01-25,30.19,3,Baseball Bat,sports,,,2023-07-26,DHL,2023-08-08,pending,Debit Card
+1fc84689-1e72-4987-8636-015822f63546,2023-11-22,224.55,2,T-shirt,fashion,,,2024-06-04,UPS,2024-06-04,pending,PayPal
+c0ce1bf5-59ad-4ad8-809c-aacd7356e4cb,2023-12-04,167.18,3,Conditioner,beauty,4.6,2023-12-07,2024-09-04,UPS,2024-09-17,delivered,PayPal
+394241d8-9fc2-4bf5-a605-a0f4974be9de,2024-01-09,301.38,3,Golf Club,sports,,,2024-05-31,DHL,2024-05-31,shipped,Credit Card
+35b34f13-bf7c-4049-8ad9-eada8c1d557f,2024-08-16,157.09,4,Dress,fashion,,,2024-11-28,DHL,2024-12-09,shipped,PayPal
+e6e7c13c-79be-4b19-be89-16a1331e34ff,2023-08-18,125.93,1,Socks,fashion,,,2023-10-03,FedEx,2023-10-12,pending,Credit Card
+cba25db9-decf-4e5a-8b75-530557a2083b,2023-02-27,213.48,4,Shampoo,beauty,,,2024-11-02,UPS,2024-11-09,shipped,Credit Card
+68b074c3-9955-4fc5-97bd-dafc1ff4fa36,2023-11-05,463.27,3,T-shirt,fashion,,,2024-04-09,UPS,2024-04-17,pending,Credit Card
+59d1459b-ba97-431c-824b-ffd0a3d478ab,2023-07-21,319.22,3,Cycling Helmet,sports,4.8,2023-07-24,2024-12-03,FedEx,2024-12-03,delivered,Debit Card
+c8a523a1-a2fc-41c2-976a-67b6cc9e6905,2024-03-29,365.53,4,Perfume,beauty,,,2024-10-19,UPS,2024-11-01,pending,PayPal
+a3f99f02-15fc-4b34-8cc4-439ea272a23d,2023-11-13,69.79,3,Smartphone,electronics,,,2024-03-03,DHL,2024-03-13,shipped,PayPal
+6515c66f-10ef-4f6f-a932-0e5e5c886596,2023-12-27,337.94,3,Golf Club,sports,3.6,2024-01-18,2024-06-08,DHL,2024-06-11,delivered,Credit Card
+6eb380ad-e918-4e23-a996-27a6903e428e,2023-09-04,398.88,3,Makeup Brush,beauty,,,2024-07-22,UPS,2024-07-31,shipped,Debit Card
+9caad112-abe7-43d9-9159-07e532a7563c,2023-08-20,93.57,5,Golf Club,sports,,,2024-03-27,FedEx,2024-04-11,pending,Credit Card
+fc8f4e59-ff26-446b-bbd1-96ccc6618ba3,2024-03-17,156.85,2,T-shirt,fashion,,,2024-06-17,UPS,2024-06-28,shipped,Debit Card
+667b0546-e8cd-4c2b-88cc-294849811ab6,2023-08-15,219.04,1,Soccer Ball,sports,,,2023-10-16,FedEx,2023-10-31,pending,Debit Card
+b1cdd1be-1036-41c2-a4fc-9cbf8e062231,2024-08-22,112.6,4,Game Console,electronics,,,2024-12-06,DHL,2024-12-09,shipped,Debit Card
+f2147a00-8596-4115-9c4f-98722268aab7,2023-01-10,138.09,2,Bluetooth Speaker,electronics,0.8,2023-01-15,2023-05-23,FedEx,2023-06-07,delivered,Debit Card
+f36fb665-fce8-4566-89a7-634313a2498c,2023-10-10,344.96,4,Game Console,electronics,,,2024-05-31,UPS,2024-06-09,pending,Credit Card
+1901d94a-b4a8-4c9b-9965-4bb8f83b260d,2023-12-16,237.67,3,Basketball,sports,3.8,2024-01-11,2024-05-09,UPS,2024-05-15,delivered,Credit Card
+f60bcf79-5e6d-46bf-846b-a70dc6d469ec,2023-04-22,404.96,2,Sneakers,fashion,,,2024-01-07,UPS,2024-01-15,shipped,Credit Card
+12c40507-5311-43e9-ad03-8506bc51dfa9,2024-06-08,178.09,2,Hair Dryer,beauty,,,2024-07-23,FedEx,2024-07-31,pending,Credit Card
+a08f3c24-0007-4ce5-aae7-9c66be9fcf5d,2023-03-29,35.37,5,Cycling Helmet,sports,,,2024-03-29,DHL,2024-03-30,pending,Credit Card
+b4e6c899-e1fa-42ef-b443-67d932451bf8,2024-07-13,466.37,3,Coffee Table,home,,,2024-09-16,DHL,2024-09-21,shipped,PayPal
+c54db862-c816-4cc2-8b92-3c10f2604002,2024-04-09,264.47,3,Dress,fashion,,,2024-11-27,UPS,2024-12-12,shipped,Debit Card
+dfcfc5b2-7252-4939-804b-4cab2bcd8f65,2024-02-26,353.19,4,Lamp,home,,,2024-09-23,DHL,2024-09-27,pending,Debit Card
+0a7ee205-6742-4678-aff3-f33694b96a11,2024-01-04,74.27,1,Basketball,sports,,,2024-01-28,DHL,2024-02-03,shipped,PayPal
+2ad82004-1193-4290-addb-8d2b764e6613,2023-08-02,407.21,5,Bookshelf,home,1.7,2023-08-28,2023-11-04,FedEx,2023-11-08,delivered,Debit Card
+3a90a5ff-9074-46ac-93be-040e3f45f726,2024-01-20,311.31,1,Curtains,home,,,2024-05-11,FedEx,2024-05-22,shipped,Debit Card
+8d913585-c070-43f9-9852-466f4f654f52,2024-06-29,96.9,3,Perfume,beauty,,,2024-09-10,FedEx,2024-09-22,shipped,PayPal
+f4101d0f-6fb9-424d-8711-59ec144352f8,2023-09-15,331.16,1,Basketball,sports,,,2024-06-09,DHL,2024-06-23,shipped,Debit Card
+884ef1f6-bee5-470a-8902-ddbfa3ed17d6,2023-05-23,170.14,1,Smartwatch,electronics,0.6,2023-06-02,2024-10-16,DHL,2024-10-27,delivered,PayPal
+5db6afc3-6b5e-4a94-a3bc-53c1ed898158,2023-12-02,353.83,3,Chair,home,0.5,2023-12-21,2024-05-16,FedEx,2024-05-19,delivered,Credit Card
+83ec15b3-fd4b-4390-a789-d057819d2436,2023-07-21,177.05,2,Mascara,beauty,,,2024-05-26,UPS,2024-05-27,pending,Credit Card
+6870447a-51e6-4e47-8f28-699f592100ca,2023-03-09,491.59,3,Printer,electronics,,,2024-03-18,FedEx,2024-03-19,pending,PayPal
+18df1ca2-e0c1-4a72-b50c-6673878af7ed,2023-10-10,187.42,2,Cycling Helmet,sports,2.1,2023-11-07,2024-01-02,UPS,2024-01-02,delivered,PayPal
+a5d04325-625b-4148-a770-3a95d302b8f9,2023-07-08,249.08,1,Lipstick,beauty,,,2024-04-21,FedEx,2024-05-05,pending,PayPal
+f5393afe-d111-4dd2-80bc-dc70bb7e3648,2024-06-08,366.64,1,Baseball Bat,sports,1.1,2024-06-24,2024-09-22,FedEx,2024-09-24,delivered,PayPal
+d3ada003-f86e-48e3-ac01-6228482c2b32,2024-01-04,32.4,2,Shirt,fashion,,,2024-01-22,UPS,2024-01-30,pending,Credit Card
+82b85479-b3ae-47b8-b424-dbe618844d4f,2024-05-08,382.62,4,Makeup Brush,beauty,,,2024-12-02,DHL,2024-12-10,pending,PayPal
+b92a2b78-8e8b-4808-bafb-fd797e97dc6c,2024-07-24,208.27,5,Basketball,sports,,,2024-08-20,UPS,2024-09-01,pending,Debit Card
+8f61e21f-7b6c-4767-8d9e-7ba7374fec7c,2023-11-16,415.08,1,T-shirt,fashion,,,2024-06-16,DHL,2024-06-28,shipped,PayPal
+ef69600a-9a84-4b73-bbab-ebbc89927e16,2023-12-23,287.05,2,Dining Table,home,,,2024-01-27,FedEx,2024-01-27,pending,Credit Card
+34cd573b-dea1-4394-8bb1-78b5a5e773b2,2024-08-07,466.07,4,Running Shoes,sports,,,2024-09-01,DHL,2024-09-15,shipped,PayPal
+3548e777-ff47-44a4-b78e-cedae8a80603,2023-08-20,482.21,5,Tablet,electronics,4.9,2023-08-26,2024-01-04,FedEx,2024-01-12,delivered,Credit Card
+cbf8c3e7-8215-4412-92c3-256b1c02ad7b,2024-02-15,177.28,3,Hair Dryer,beauty,,,2024-11-03,FedEx,2024-11-06,pending,PayPal
+da1acf20-5db4-4388-ba7e-c1e27a725eb4,2024-08-21,400.88,4,Toaster,home,4.5,2024-09-03,2024-10-22,FedEx,2024-10-24,delivered,Credit Card
+d3e92103-08e8-4355-b9cc-b815a11f4ddf,2024-09-28,385.05,4,Lamp,home,,,2024-12-06,DHL,2024-12-08,shipped,Debit Card
+e705c1e4-4bb2-46b2-86c0-cbb1889d05af,2023-02-08,147.88,5,Toaster,home,,,2024-02-09,DHL,2024-02-09,shipped,PayPal
+23731d1a-e14e-49cf-befc-a4324fb10c9b,2024-02-16,134.2,4,Smartwatch,electronics,,,2024-11-29,DHL,2024-12-05,shipped,Credit Card
+8d5e44bf-4199-46e9-85f7-21f2c7ae7f72,2023-07-30,365.45,3,Coffee Table,home,,,2024-08-30,FedEx,2024-09-07,pending,PayPal
+0d5fa308-4d0e-46ff-b0cc-d7b48789045f,2024-08-29,455.6,2,Running Shoes,sports,,,2024-10-12,FedEx,2024-10-16,pending,Credit Card
+e85611d2-4a6c-48ef-86e7-dcc1476b34b9,2023-12-01,55.35,3,Chair,home,,,2024-11-28,FedEx,2024-12-05,pending,PayPal
+34b0a2ce-dfc9-4a2d-8ce2-1026809a341e,2024-09-23,187.73,1,Shampoo,beauty,,,2024-10-16,UPS,2024-10-25,pending,PayPal
+7463830a-665e-4baa-bf5d-8706cf11da9e,2023-08-24,95.98,3,Smartphone,electronics,,,2023-11-22,FedEx,2023-11-30,pending,Credit Card
+0a27daa9-502f-425d-8292-600417eacde0,2024-07-14,471.86,5,Bookshelf,home,,,2024-12-15,FedEx,2024-12-23,pending,Credit Card
+dcf45a67-68b3-44db-8d7e-86b30b5aca07,2023-01-08,141.11,3,Baseball Bat,sports,,,2024-07-28,FedEx,2024-07-28,shipped,Debit Card
+d8f8a0f0-18c5-43ae-a2c2-c31fd13d9a80,2024-03-17,73.86,2,Nail Polish,beauty,,,2024-08-02,FedEx,2024-08-04,shipped,Debit Card
+ebe7a525-92b8-4c90-9ecf-372c063415dc,2024-03-27,205.09,5,Shampoo,beauty,,,2024-10-14,UPS,2024-10-25,shipped,Debit Card
+7991e539-1fef-46d9-8c5d-9315ed304c4f,2024-05-21,165.19,5,Basketball,sports,1.5,2024-06-13,2024-05-26,UPS,2024-05-30,delivered,Debit Card
+78ef330d-dbf4-456d-8215-70f296343f42,2023-01-14,207.63,4,Perfume,beauty,2.1,2023-01-24,2024-01-09,FedEx,2024-01-14,delivered,Debit Card
+f6a62f57-f2f2-40ca-995f-ae41da94e385,2023-05-19,61.45,3,Makeup Brush,beauty,,,2024-02-02,FedEx,2024-02-16,shipped,PayPal
+daef7dc1-bab0-404b-9c00-71ad930491b8,2023-08-03,196.81,5,Toaster,home,,,2024-08-19,UPS,2024-08-26,pending,Credit Card
+b886dea8-62f1-4224-a3f4-841fb76b0b37,2024-06-11,415.46,4,Dress,fashion,,,2024-07-10,FedEx,2024-07-19,pending,Debit Card
+82a52f91-30c0-4f01-9648-a1fab2117bd9,2023-04-29,443.56,3,Cycling Helmet,sports,0.7,2023-05-27,2024-08-22,FedEx,2024-09-05,delivered,PayPal
+98429227-3f90-4be2-974d-9887de53c80c,2024-04-18,381.33,5,Sweater,fashion,,,2024-10-13,FedEx,2024-10-17,shipped,Debit Card
+0a4f6957-63a0-4696-a741-f8567bca0b5c,2024-09-05,426.44,5,Jacket,fashion,,,2024-10-31,UPS,2024-11-09,pending,PayPal
+6fa1d29a-2463-448e-a819-219956dadd23,2023-05-31,119.31,1,Mascara,beauty,,,2024-06-24,DHL,2024-07-09,pending,Debit Card
+c0d85342-d114-4ba8-9d5c-cdb4d7f63d1e,2023-06-03,229.76,1,Basketball,sports,,,2023-11-05,UPS,2023-11-19,shipped,Debit Card
+6e164e01-2b5a-4c11-9738-07bfcee0751a,2024-04-04,232.47,2,Game Console,electronics,,,2024-11-03,UPS,2024-11-07,pending,Credit Card
+bd9daa7c-64e6-42d5-b55e-9b121e62d6d3,2024-01-22,161.76,2,Golf Club,sports,3.4,2024-02-10,2024-02-05,FedEx,2024-02-15,delivered,PayPal
+93a0a6e9-9d11-47dc-a452-bc546d295ada,2024-04-13,301.46,4,Scarf,fashion,0.2,2024-04-28,2024-10-22,DHL,2024-10-27,delivered,Debit Card
+8ee1babd-258f-4b0a-8754-0435c098ddf5,2024-03-08,228.94,2,Bookshelf,home,4.8,2024-03-14,2024-08-29,UPS,2024-08-30,delivered,PayPal
+445e0595-4786-436d-8b50-b795f4e0f6a3,2023-07-10,157.81,4,Makeup Brush,beauty,,,2024-10-18,FedEx,2024-10-27,shipped,Debit Card
+390d825d-39d2-4b25-b777-d0d1cf3954a7,2023-10-25,168.09,1,Desk,home,3.4,2023-11-01,2024-02-06,UPS,2024-02-07,delivered,PayPal
+25dc9ca8-cade-4b3d-b796-59b3add0f1ad,2023-01-20,394.01,5,Tablet,electronics,3.8,2023-02-13,2023-06-16,DHL,2023-06-21,delivered,Credit Card
+a3085c61-a69b-4cce-a441-f50d4cb863ac,2023-02-27,338.75,2,Sneakers,fashion,,,2024-06-29,FedEx,2024-07-07,shipped,Debit Card
+c66cd3f8-831e-45da-9654-ae6f5e001c29,2023-03-13,132.86,2,Headphones,electronics,,,2023-06-24,DHL,2023-06-28,pending,PayPal
+19249cb8-c2b3-44c8-8ac6-1aaa937e3bc1,2023-06-11,39.62,4,Golf Club,sports,,,2024-12-11,DHL,2024-12-26,pending,Credit Card
+a829d94b-a6b5-4b03-9826-a6645eb1535a,2023-07-31,440.55,2,Chair,home,,,2024-02-21,FedEx,2024-03-06,shipped,Debit Card
+0fad2882-6045-4dd0-a382-ad3235e5ca43,2024-06-14,410.77,4,Chair,home,,,2024-11-21,UPS,2024-11-23,pending,PayPal
+83df5576-db99-4a60-bfe5-9d697ded8680,2024-04-28,52.42,5,Baseball Bat,sports,,,2024-09-06,FedEx,2024-09-18,shipped,Debit Card
+d4bafa92-a87c-491d-a29d-72fbd2da0b84,2024-05-28,420.08,5,Lamp,home,,,2024-08-24,UPS,2024-09-07,pending,Credit Card
+d7c675fd-5918-4350-a274-ca93dab58d56,2023-09-10,86.16,4,Makeup Brush,beauty,3.7,2023-10-01,2024-02-25,FedEx,2024-02-27,delivered,Credit Card
+f6079c68-5be9-4d3e-bc40-aaf8fc4ad0f2,2023-03-15,300.89,1,Cycling Helmet,sports,,,2024-07-03,FedEx,2024-07-07,pending,Credit Card
+9869a889-1758-4161-ad0f-7092a9fb31ae,2023-03-13,156.64,4,Body Lotion,beauty,,,2024-09-07,UPS,2024-09-22,pending,PayPal
+63b769be-ad77-471e-aa66-02d586e300be,2023-10-14,399.94,3,Toaster,home,1.5,2023-11-06,2024-07-30,FedEx,2024-08-03,delivered,PayPal
+e97183e7-a6ef-481d-9e42-1dad08ab1bd7,2023-01-18,107.29,4,Baseball Bat,sports,,,2024-08-15,FedEx,2024-08-29,shipped,PayPal
+38429154-ea1e-448f-80c1-3e706ed28239,2023-02-06,311.66,3,Tablet,electronics,,,2023-08-28,FedEx,2023-09-04,pending,PayPal
+26635bf3-a188-4ef7-9d6f-e075c6c188d8,2024-04-03,56.93,1,Face Cream,beauty,5.0,2024-04-28,2024-05-26,DHL,2024-06-05,delivered,Credit Card
+4181ece4-5fdd-4363-8a86-89a7a38c22e1,2023-06-26,415.17,5,Golf Club,sports,3.7,2023-06-27,2023-10-04,FedEx,2023-10-18,delivered,Credit Card
+41f7da77-b873-4aa1-b8c3-de1a5b400862,2023-08-21,270.66,3,Yoga Mat,sports,,,2023-11-12,DHL,2023-11-25,shipped,Credit Card
+86232108-bec5-4865-874a-97f7c5ba9ef6,2024-07-22,261.47,2,Scarf,fashion,,,2024-10-09,DHL,2024-10-15,pending,Credit Card
+e9fcdb09-e2e3-4614-9c71-14a28fdb3d72,2024-03-17,256.85,5,Air Conditioner,home,1.6,2024-03-17,2024-05-05,DHL,2024-05-05,delivered,PayPal
+606e5e8b-fa6c-4f42-b08b-e024fcb4c426,2023-05-03,458.16,2,Jacket,fashion,,,2024-02-03,UPS,2024-02-16,shipped,PayPal
+a1c9301c-eea1-439f-aa9c-9c74eb82b3a2,2023-01-15,258.48,4,Laptop,electronics,,,2024-03-03,UPS,2024-03-18,pending,Credit Card
+f4f7a728-1595-478f-bc6c-50fcaaf2b82c,2023-10-11,305.6,1,Face Cream,beauty,,,2024-01-31,UPS,2024-02-06,shipped,Credit Card
+39a39c13-7872-4f35-829c-dc7d87b59bf0,2023-09-22,198.4,2,Conditioner,beauty,3.3,2023-10-04,2024-10-22,FedEx,2024-10-30,delivered,Credit Card
+75a1ef4c-b943-494f-80a0-ec96f9c8eb7e,2024-06-29,341.63,3,Lipstick,beauty,,,2024-09-16,UPS,2024-09-21,pending,Credit Card
+6c72a755-1b14-4d6c-bb17-318200004338,2023-12-23,419.91,5,Golf Club,sports,0.9,2024-01-09,2024-11-28,UPS,2024-12-03,delivered,Credit Card
+45f8ec4c-dca6-43eb-87e0-e1bb08baa471,2023-09-30,332.05,2,Hat,fashion,4.9,2023-10-08,2024-04-23,UPS,2024-05-03,delivered,PayPal
+a26833d4-9687-473f-9c7c-65825d928c79,2023-04-17,324.0,1,Basketball,sports,4.7,2023-04-23,2023-07-05,DHL,2023-07-07,delivered,Debit Card
+d3b9201b-afa3-4d73-ad70-ab2d4a5a46c9,2023-04-09,363.28,2,Shirt,fashion,1.0,2023-05-01,2024-06-30,UPS,2024-07-15,delivered,PayPal
+9a9ccd9b-d70c-4d07-a752-a3203f55a3ee,2023-11-05,35.65,2,Face Cream,beauty,,,2024-09-22,UPS,2024-09-29,shipped,Credit Card
+2d3ab526-1ab4-49fa-bb4f-b3cf954283c5,2023-06-07,465.82,4,Perfume,beauty,,,2024-01-11,DHL,2024-01-18,pending,PayPal
+6b65e830-c2f1-4b47-b632-e24becc0c564,2023-04-13,378.95,4,Scarf,fashion,2.1,2023-04-16,2023-11-12,DHL,2023-11-12,delivered,Debit Card
+fabab697-184a-4ada-acbf-53498193003a,2023-06-12,440.97,2,Couch,home,,,2024-03-04,FedEx,2024-03-10,shipped,Debit Card
+44129310-5b2a-458a-b68f-e9b8bd4e9055,2024-04-07,221.22,4,Socks,fashion,,,2024-08-10,FedEx,2024-08-13,pending,Credit Card
+ce079c28-f2ab-46f1-9ae5-cd8b61bbc783,2024-07-01,282.21,4,Scarf,fashion,2.6,2024-07-27,2024-09-02,DHL,2024-09-04,delivered,Credit Card
+b69206bc-7542-4c48-96bc-7419e2590534,2023-02-15,195.3,3,Lipstick,beauty,,,2024-03-13,DHL,2024-03-16,pending,PayPal
+c3111bb2-2435-4c95-a6a8-0ff8f59c804c,2023-07-04,29.32,4,Coffee Table,home,1.1,2023-07-08,2024-04-14,DHL,2024-04-17,delivered,PayPal
+185e8658-3ff1-412e-9eb5-c772c0900dc0,2023-08-27,256.21,4,Coffee Table,home,,,2023-12-13,DHL,2023-12-15,pending,Debit Card
+9353ab4e-02e1-4ba3-94ff-b747639ec87b,2023-05-15,66.42,5,Sweater,fashion,,,2024-11-05,FedEx,2024-11-05,pending,Debit Card
+eb886f50-f7e1-473f-8e3c-ed470eb9383c,2023-11-10,259.81,2,Hair Dryer,beauty,1.0,2023-11-24,2024-02-25,FedEx,2024-02-27,delivered,Debit Card
+943278ac-ff63-4186-a707-0d6fe5600c87,2023-01-11,396.38,2,Game Console,electronics,0.7,2023-02-09,2023-02-18,DHL,2023-02-25,delivered,PayPal
+b40189fd-2caa-49bf-b598-5b91c6403f90,2024-01-11,229.0,2,Cycling Helmet,sports,2.3,2024-01-27,2024-10-21,UPS,2024-10-25,delivered,PayPal
+e63da95b-08ba-4231-b251-adcbf53c51d6,2024-07-27,268.41,3,Tablet,electronics,,,2024-08-06,FedEx,2024-08-21,shipped,PayPal
+a6807217-494e-4b51-8a99-af6282baa91d,2023-06-28,372.24,4,Scarf,fashion,,,2023-07-15,DHL,2023-07-19,pending,Credit Card
+b49ab924-4a44-4772-92eb-b8e6cc1b0f6b,2023-02-12,191.04,3,Smartphone,electronics,,,2023-04-10,UPS,2023-04-20,shipped,Credit Card
+86133aa4-e4ac-48da-aeb8-3e8cec8c2f6f,2024-04-23,203.23,4,Printer,electronics,,,2024-09-02,UPS,2024-09-10,shipped,PayPal
+6d00e70b-91ca-401c-9392-43ae62401a1c,2024-03-23,156.12,4,Jeans,fashion,0.7,2024-04-14,2024-09-16,UPS,2024-09-16,delivered,Debit Card
+02f61d58-5f07-4771-aafe-4b8edb093d9c,2024-01-28,171.16,2,Tablet,electronics,4.7,2024-02-15,2024-09-01,DHL,2024-09-09,delivered,Debit Card
+aef22778-307b-44ad-be82-2f819f9eaace,2023-01-26,79.29,3,Socks,fashion,0.2,2023-02-07,2023-08-23,FedEx,2023-09-06,delivered,PayPal
+9888e720-06f5-4f2c-981f-a7227b7150d3,2024-03-17,405.9,1,Nail Polish,beauty,,,2024-08-04,FedEx,2024-08-09,pending,Credit Card
+a40e3834-a043-4d56-93f6-6f70a09f0309,2024-09-30,492.23,3,TV,electronics,,,2024-11-16,FedEx,2024-11-28,shipped,Credit Card
+c92df7db-fb64-4dd2-bb66-387b24b8db2e,2023-03-05,400.71,5,Perfume,beauty,1.0,2023-03-21,2024-05-19,UPS,2024-05-31,delivered,Debit Card
+cf170a6a-a417-4792-8cb2-5e7ae8762126,2024-07-21,365.57,1,Sneakers,fashion,,,2024-08-07,UPS,2024-08-19,shipped,Debit Card
+73f7d88d-c274-4857-b94d-b040e8caf508,2024-08-16,231.0,1,Golf Club,sports,,,2024-10-30,FedEx,2024-11-03,pending,Debit Card
+02e33907-3df5-475d-98a0-5035ac868dd1,2024-06-05,259.39,5,Mascara,beauty,,,2024-08-25,FedEx,2024-08-28,pending,PayPal
+be8db3de-ca72-4f6a-8c1f-f619d78f9f69,2023-06-08,247.45,2,Mascara,beauty,0.9,2023-06-24,2023-11-30,UPS,2023-12-04,delivered,Debit Card
+74f0352e-5989-44cc-8ee6-c1236e99e73a,2023-08-14,233.0,3,Shampoo,beauty,,,2024-01-15,FedEx,2024-01-27,pending,Debit Card
+c18fa3df-d422-4df9-b3b3-28c1bf06d60c,2024-04-21,87.19,3,Dress,fashion,0.6,2024-04-21,2024-12-13,DHL,2024-12-13,delivered,PayPal
+70a3def2-da15-477b-abee-7c96c94c954b,2023-03-21,452.95,5,Printer,electronics,,,2023-10-16,FedEx,2023-10-31,pending,PayPal
+6e41b587-429c-4170-a840-9cc1df93acab,2024-07-09,284.54,4,Makeup Brush,beauty,2.6,2024-07-28,2024-08-29,UPS,2024-09-06,delivered,PayPal
+999c043f-5789-46f0-bcf5-e7e08ca40bfd,2023-10-12,83.64,5,Hat,fashion,4.2,2023-11-11,2024-05-03,DHL,2024-05-12,delivered,PayPal
+bda8bcbc-6989-414f-a7fb-1ffe1fc11109,2023-04-27,238.08,1,Makeup Brush,beauty,,,2024-03-24,DHL,2024-04-01,shipped,Credit Card
+46bad23d-9a98-49c7-be3d-161901fb8ec1,2023-05-30,160.43,5,Air Conditioner,home,,,2023-07-16,UPS,2023-07-28,pending,Debit Card
+8371b1ad-062b-44ca-90b3-09ff282004f2,2023-11-04,164.49,4,Jacket,fashion,0.2,2023-11-06,2024-10-18,UPS,2024-10-26,delivered,Credit Card
+c415245e-4fc4-4a84-9b6c-1a46941d9bdd,2024-09-08,206.26,2,Shampoo,beauty,,,2024-11-24,FedEx,2024-12-03,shipped,Debit Card
+e409afee-233f-474f-9724-d4bed6a26250,2023-12-10,253.34,3,Jeans,fashion,,,2024-09-05,DHL,2024-09-18,pending,PayPal
+67855b88-98b5-432c-a4d1-3024b2d5340e,2023-03-02,82.87,4,Bluetooth Speaker,electronics,,,2024-01-07,UPS,2024-01-14,pending,Debit Card
+eefdc5eb-dac7-4388-8a9b-f987a7548338,2023-09-24,253.59,1,Game Console,electronics,,,2023-10-28,FedEx,2023-11-08,pending,PayPal
+c1e846ca-0971-46da-972e-b7aba202d3c7,2024-03-20,52.87,2,Printer,electronics,3.7,2024-04-10,2024-12-08,DHL,2024-12-13,delivered,Debit Card
+f13aa252-c2ab-4dab-8033-5ab009f287fc,2023-07-26,189.87,2,Scarf,fashion,,,2024-02-25,DHL,2024-03-01,pending,Credit Card
+18bf3b41-1f5a-49ff-b1a7-4cfb466230ca,2023-02-20,198.25,4,Camera,electronics,,,2024-05-30,FedEx,2024-06-10,pending,PayPal
+bd741df9-e1bb-47d4-bdf9-0c1af83a9e47,2024-06-07,205.41,5,Golf Club,sports,,,2024-09-07,FedEx,2024-09-18,pending,PayPal
+e4019910-6117-4fbb-beea-d7cbce1164f4,2024-01-29,245.5,1,Soccer Ball,sports,,,2024-07-23,FedEx,2024-08-05,shipped,PayPal
+d544f065-f405-472a-bf68-3350c2439d58,2023-08-24,211.26,3,Shirt,fashion,,,2024-08-26,FedEx,2024-09-07,shipped,Credit Card
+c06d0f4b-130d-4c26-b420-6772875cf6ca,2023-04-12,185.83,5,Printer,electronics,3.3,2023-05-09,2024-03-06,FedEx,2024-03-18,delivered,PayPal
+ad3ed03c-be52-4781-a0fa-ea3a3375e8e1,2024-08-20,417.04,3,Face Cream,beauty,2.8,2024-08-31,2024-08-23,DHL,2024-09-07,delivered,Credit Card
+8109d380-195b-4333-afa4-c855973ce11d,2024-03-18,54.62,3,Mascara,beauty,,,2024-05-08,DHL,2024-05-13,shipped,PayPal
+bfdbd4ee-8382-47e2-a970-ab7f37313061,2024-08-31,367.89,1,Tablet,electronics,,,2024-11-25,DHL,2024-12-04,pending,PayPal
+73a9ff64-93de-48cc-8e2d-d4d9301483aa,2023-09-24,95.74,2,Sneakers,fashion,,,2024-07-09,UPS,2024-07-18,shipped,Debit Card
+53101d40-8cfd-44c8-a165-324b9f7ee5c9,2024-09-05,494.71,3,Shirt,fashion,,,2024-10-20,FedEx,2024-10-31,shipped,PayPal
+5760f7c6-d4c7-4d4d-aa5f-ee7eb809e493,2023-07-30,469.27,3,Soccer Ball,sports,,,2024-07-10,DHL,2024-07-13,pending,Credit Card
+1f236eb1-80a2-4027-a05a-ad8b8556f31e,2024-04-28,185.93,4,Air Conditioner,home,0.5,2024-05-07,2024-06-29,DHL,2024-07-04,delivered,PayPal
+ba27caeb-26ba-4fef-9104-cdec6fdfba4d,2024-05-20,437.28,4,Sneakers,fashion,,,2024-09-13,FedEx,2024-09-25,shipped,Credit Card
+adc6c9e3-e150-491b-bbd6-6cb3f556d03c,2023-01-21,108.16,2,Bookshelf,home,1.6,2023-01-27,2024-06-12,FedEx,2024-06-20,delivered,Debit Card
+0744b288-5e63-4dfc-9488-e06c09681d32,2024-03-02,466.23,2,Body Lotion,beauty,3.2,2024-03-30,2024-08-22,FedEx,2024-09-01,delivered,Debit Card
+ad472056-0525-4731-874e-25439e450e1a,2024-05-08,298.35,5,Yoga Mat,sports,,,2024-10-16,UPS,2024-10-18,shipped,Credit Card
+3bdc6d37-271f-4b4d-806a-07dc2e0d5c41,2024-05-04,147.75,5,Tennis Racket,sports,,,2024-05-18,DHL,2024-05-27,pending,PayPal
+8060512c-80da-435c-9bbe-6e83c1516109,2024-03-06,91.45,1,Lamp,home,4.9,2024-03-21,2024-05-28,DHL,2024-06-02,delivered,PayPal
+b93b2035-b932-4f4d-843c-a640a9ac0140,2023-10-18,50.91,3,Golf Club,sports,4.4,2023-10-25,2024-10-22,FedEx,2024-10-23,delivered,Debit Card
+5e6e407b-7206-4f46-9471-9c553b07c5ee,2024-03-22,192.47,1,Sweater,fashion,,,2024-06-15,FedEx,2024-06-16,shipped,Debit Card
+2bb925db-2f14-4caf-8f50-074174506e2e,2023-03-16,154.83,1,Tablet,electronics,,,2024-06-27,UPS,2024-07-08,shipped,PayPal
+f0ea4c88-66f2-4b98-b44d-e3ff40562e58,2024-06-30,270.72,2,Game Console,electronics,,,2024-08-11,UPS,2024-08-21,shipped,PayPal
+ed6a4762-467b-4c78-9659-d6221a3883e6,2023-10-10,73.3,5,Smartwatch,electronics,,,2023-11-17,DHL,2023-11-27,pending,Debit Card
+83372e29-fe76-46b7-9eed-fa89b0f50ce6,2024-02-12,165.08,4,Shampoo,beauty,3.5,2024-02-13,2024-11-04,FedEx,2024-11-11,delivered,Credit Card
+00e5ade6-0cb5-4ea2-a5eb-7993400b73b5,2024-09-12,290.7,5,Lamp,home,1.7,2024-10-12,2024-10-21,DHL,2024-10-21,delivered,PayPal
+4d600c5e-84b2-49aa-b7a8-d26140a88a02,2024-05-06,426.63,4,Bookshelf,home,2.1,2024-06-02,2024-12-03,DHL,2024-12-15,delivered,PayPal
+5ad79281-251b-48c9-baa8-993c6ffa1d2a,2024-06-25,34.8,4,Dumbbells,sports,,,2024-11-23,FedEx,2024-12-06,shipped,Credit Card
+0a60b509-d726-474c-abb6-bef644a881b0,2023-02-02,139.1,4,Face Cream,beauty,,,2023-09-29,DHL,2023-10-03,pending,PayPal
+f9312a83-ddfc-4c24-8868-83a80af64e8a,2023-09-23,453.38,2,Game Console,electronics,,,2024-10-26,DHL,2024-10-28,shipped,Debit Card
+0a6f21d3-1e06-4557-89d5-1652745bfef0,2023-08-07,258.84,5,Laptop,electronics,2.7,2023-09-04,2024-05-06,UPS,2024-05-06,delivered,Credit Card
+35dc9ddb-e27f-4ebe-b32d-35e77c926af5,2023-12-01,267.81,3,Hat,fashion,,,2024-12-02,DHL,2024-12-03,shipped,Credit Card
+f877e774-f4ff-4371-a03c-697486636b74,2023-05-11,355.06,4,Basketball,sports,,,2024-06-02,UPS,2024-06-13,shipped,Credit Card
+59ea34a1-f8ca-40af-800c-4d29f078eff7,2024-04-07,454.44,3,Lamp,home,,,2024-09-19,FedEx,2024-09-30,shipped,PayPal
+3c1d1ded-451f-4057-ade4-8088506758b9,2024-06-10,96.81,4,Curtains,home,,,2024-09-29,UPS,2024-10-03,pending,Debit Card
+faac4076-69ff-4910-879f-9625cdd779a2,2024-08-31,378.37,5,Curtains,home,1.9,2024-09-22,2024-11-02,UPS,2024-11-05,delivered,Debit Card
+a0b0a9a7-8b09-44d6-8928-6bf19e11aa81,2023-06-12,388.48,4,Smartphone,electronics,4.1,2023-06-28,2024-06-01,DHL,2024-06-07,delivered,Credit Card
+142c896e-3687-4132-969a-40ddec619047,2024-01-23,258.85,3,T-shirt,fashion,,,2024-08-26,FedEx,2024-09-08,pending,PayPal
+1cab1f75-ce49-4bc5-926c-8702c16dc1ca,2024-06-03,91.74,3,Lamp,home,,,2024-11-15,UPS,2024-11-20,shipped,PayPal
+516487eb-94de-446a-88f8-4ba866ca0ebc,2023-10-01,346.51,4,Dress,fashion,2.3,2023-10-31,2024-10-19,DHL,2024-10-28,delivered,Credit Card
+e13716cc-eb92-4fdb-8edc-161307e29ac0,2024-09-27,480.13,4,Body Lotion,beauty,,,2024-12-08,FedEx,2024-12-08,shipped,Credit Card
+9c4e2f66-c8c9-472f-afed-b360a53aaf6d,2023-09-06,278.45,4,Coffee Table,home,2.7,2023-09-28,2024-04-14,UPS,2024-04-19,delivered,Debit Card
+a406507f-9c03-4d8f-9563-8083bf456d31,2024-07-23,485.74,3,Scarf,fashion,,,2024-08-22,DHL,2024-08-22,shipped,Credit Card
+3ee3d0bb-7742-4421-a063-94b68f1a8f85,2024-03-03,481.4,5,Body Lotion,beauty,,,2024-12-09,UPS,2024-12-22,pending,Debit Card
+3b3bf3d7-b1d1-419d-86b5-2b9a702f31e7,2023-04-21,249.85,1,Jeans,fashion,,,2024-01-07,FedEx,2024-01-22,pending,PayPal
+be01ebb9-f687-4bca-a64d-b1830da1ae1b,2024-05-01,364.95,5,Shirt,fashion,,,2024-07-02,UPS,2024-07-09,pending,Credit Card
+dbecd33c-bfca-42c5-9df5-952b23aa3a54,2024-05-19,264.07,2,Body Lotion,beauty,,,2024-10-23,DHL,2024-11-07,pending,PayPal
+641fae5d-572a-4d6e-abb0-d3a4bedb890d,2023-02-14,292.71,5,Smartwatch,electronics,1.6,2023-02-15,2024-09-08,DHL,2024-09-10,delivered,Debit Card
+b6fe511a-935c-4e85-8916-b5bfccf27f30,2023-10-22,443.99,4,Makeup Brush,beauty,3.8,2023-11-15,2024-07-17,DHL,2024-07-19,delivered,Debit Card
+daabb19e-12d9-4341-8aec-0db0e1534fb0,2024-08-20,320.74,2,Game Console,electronics,,,2024-12-10,FedEx,2024-12-25,pending,Credit Card
+2128766c-7485-4423-8167-9e734f0c59ba,2024-09-05,270.51,2,Bluetooth Speaker,electronics,,,2024-12-16,DHL,2024-12-20,shipped,Debit Card
+9d9330c0-4a20-44c4-a498-731a20360403,2023-08-10,244.99,4,Basketball,sports,,,2024-04-29,DHL,2024-05-14,shipped,Credit Card
+8571c700-4734-4b3d-bcc5-8f2d4d2f6d61,2024-04-25,36.21,5,Dress,fashion,0.6,2024-05-18,2024-09-05,FedEx,2024-09-05,delivered,PayPal
+ef344f28-da50-4e61-8e98-99732e1faf9a,2024-01-18,171.12,4,Bluetooth Speaker,electronics,,,2024-01-19,FedEx,2024-01-31,pending,Credit Card
+46d45ca8-e6f3-4fbf-a2b3-293a8cb40e5d,2024-05-21,63.79,3,Running Shoes,sports,,,2024-11-07,DHL,2024-11-10,pending,Credit Card
+6f0b5d20-98f0-44c9-a3d3-d7a4e3bb54e4,2023-03-18,147.87,1,Golf Club,sports,,,2024-11-19,FedEx,2024-11-21,shipped,Debit Card
+b7b49e39-de94-4c11-af24-d0512cf80832,2023-06-04,123.39,5,Scarf,fashion,,,2024-08-25,FedEx,2024-08-27,pending,Debit Card
+88956a8a-9c2a-400d-a338-c87c93c7a6d8,2023-03-04,180.73,1,Cycling Helmet,sports,,,2023-03-19,DHL,2023-03-21,shipped,Debit Card
+380c5317-d267-453b-8d15-1ae70bbd6b19,2024-01-29,310.39,5,Yoga Mat,sports,4.6,2024-02-05,2024-09-22,DHL,2024-09-25,delivered,Debit Card
+0cad57de-3bba-4919-9c60-1390b1f6e0ae,2024-08-02,424.21,3,Socks,fashion,,,2024-11-17,UPS,2024-11-17,pending,Debit Card
+82a2abed-1e46-4474-923a-32070ffa7c75,2024-04-23,174.25,5,Face Cream,beauty,0.0,2024-05-19,2024-10-23,DHL,2024-11-07,delivered,Credit Card
+4fd33692-fee5-4fdf-9e11-6a00edbdbfec,2023-11-14,75.94,3,Jacket,fashion,,,2024-03-20,UPS,2024-03-25,shipped,Debit Card
+6f830999-bb25-4afa-932f-f9e000557ee9,2023-11-14,277.23,4,Conditioner,beauty,,,2024-12-07,UPS,2024-12-15,pending,Debit Card
+6bd501b9-9f39-4749-93ef-f669987f90d5,2024-05-07,47.26,2,Nail Polish,beauty,1.2,2024-06-03,2024-06-23,FedEx,2024-06-28,delivered,Debit Card
+e454eec9-9353-42f9-bdd6-38870b91dd5b,2023-04-18,483.35,1,Smartphone,electronics,,,2024-01-24,DHL,2024-02-07,shipped,PayPal
+35dd84c4-ab1b-45fd-bc9b-701e4dbd20f0,2024-01-09,215.46,3,Makeup Brush,beauty,,,2024-01-18,FedEx,2024-01-25,pending,PayPal
+f41f8a75-daa3-4a57-9e55-4081ad066d55,2024-04-16,272.9,5,Hat,fashion,,,2024-09-19,UPS,2024-09-25,shipped,Credit Card
+f70297dc-78c7-4c3c-a967-61f0dcc5d50b,2024-09-03,321.15,1,Curtains,home,,,2024-10-28,UPS,2024-11-03,shipped,Credit Card
+996d8438-f856-4d52-b535-b39ab1210db8,2023-11-26,455.18,2,Nail Polish,beauty,2.6,2023-12-11,2024-03-19,UPS,2024-03-24,delivered,Debit Card
+aa9d98f3-960f-4ed7-958b-f29fa07cae74,2023-11-28,399.04,1,Jacket,fashion,0.9,2023-12-19,2024-01-12,FedEx,2024-01-14,delivered,Credit Card
+45c71739-9b02-4845-a032-640bb6b6d817,2023-05-30,472.38,4,Jeans,fashion,0.5,2023-06-13,2024-10-20,DHL,2024-10-25,delivered,Credit Card
+7f278ea9-0f35-4ef8-88c4-4fa8eac33830,2024-06-04,325.16,3,Curtains,home,,,2024-09-17,FedEx,2024-09-30,shipped,Debit Card
+74a3fd4d-8fab-485d-86d3-b6881351d452,2023-11-12,425.01,1,Basketball,sports,,,2024-05-18,UPS,2024-06-01,shipped,Credit Card
+767768cf-2fff-4be3-81e3-cbc885965d47,2023-06-04,209.86,1,Toaster,home,,,2024-04-15,FedEx,2024-04-25,pending,PayPal
+1078a6f6-24e5-4b4f-9b99-dfd7dc22c145,2023-04-05,153.85,5,Perfume,beauty,0.5,2023-04-13,2024-01-07,UPS,2024-01-22,delivered,Credit Card
+0927761d-86c9-49bb-a066-8089fa875cdb,2024-05-15,101.25,3,Nail Polish,beauty,,,2024-08-02,UPS,2024-08-11,pending,PayPal
+259dc9ef-2fe0-4d87-aadb-87b2610b34b5,2023-08-13,57.62,5,Chair,home,0.5,2023-09-11,2024-04-16,DHL,2024-04-19,delivered,Debit Card
+19683be5-84ad-481e-9072-120356ea3b8e,2023-02-21,157.86,1,Basketball,sports,,,2023-03-14,DHL,2023-03-15,pending,Debit Card
+1a425b8a-bd6d-47b5-a485-bdc8d8d9a109,2023-10-17,197.26,4,Bookshelf,home,,,2024-01-13,DHL,2024-01-15,shipped,Debit Card
+a0c2cc52-bdf9-4e67-bdea-72a87fa47046,2023-01-11,266.07,1,Smartphone,electronics,,,2023-08-25,UPS,2023-08-29,pending,PayPal
+91e41813-9d53-461c-9332-872840a5d6db,2024-04-04,158.97,5,Lipstick,beauty,3.4,2024-05-03,2024-04-09,DHL,2024-04-24,delivered,PayPal
+35136522-ffd9-48e1-9768-970f08199285,2023-09-18,439.95,3,Sneakers,fashion,1.7,2023-10-14,2024-05-23,DHL,2024-05-28,delivered,Credit Card
+60719a51-ead8-49e2-ad6e-d13ebcf48fe5,2024-01-15,261.02,2,Conditioner,beauty,,,2024-09-18,DHL,2024-09-23,shipped,Credit Card
+83d537a0-0d4d-4f51-bdfd-6646debe8a46,2023-01-01,430.7,3,TV,electronics,,,2024-09-14,FedEx,2024-09-17,pending,PayPal
+7b2d7931-6da0-4b55-9600-950a42b670d2,2023-01-26,496.8,5,Face Cream,beauty,,,2024-08-13,FedEx,2024-08-20,shipped,PayPal
+46d87c8c-84bc-4e35-a5f6-4fc58b2ccc20,2023-04-30,393.58,3,Toaster,home,4.1,2023-05-19,2023-06-16,FedEx,2023-06-27,delivered,Debit Card
+9c50da4f-dee6-49b7-8421-af5cd9f0a52e,2024-04-24,28.98,4,Camera,electronics,0.6,2024-05-15,2024-05-29,FedEx,2024-06-03,delivered,Credit Card
+326c0066-ad11-4eca-a64b-a5acdfddb456,2023-03-04,42.46,1,Body Lotion,beauty,2.9,2023-03-05,2024-01-02,UPS,2024-01-02,delivered,Credit Card
+56c092d4-f3e0-4632-907d-cb32bd3309cb,2024-03-04,37.96,1,Sneakers,fashion,,,2024-03-04,DHL,2024-03-17,shipped,PayPal
+93c56fc5-a383-4318-8832-2ef6c8a45d55,2024-01-26,484.5,3,Baseball Bat,sports,,,2024-04-15,DHL,2024-04-28,pending,PayPal
+6e171d2a-ffb4-44c7-a947-4e4b50efb525,2024-01-31,91.38,4,Makeup Brush,beauty,,,2024-04-01,FedEx,2024-04-06,pending,Debit Card
+d07d347a-d01e-429c-a0cf-1a1169c64404,2023-05-04,27.77,2,Golf Club,sports,,,2024-02-13,UPS,2024-02-26,shipped,PayPal
+de00c0d1-640f-4b77-966b-7b6b7fa20415,2023-05-15,200.5,3,Dining Table,home,,,2023-09-26,DHL,2023-09-30,pending,PayPal
+fbd90594-027c-4ce0-aab4-735090aa9eb1,2024-02-13,403.81,5,Desk,home,3.7,2024-02-23,2024-07-04,FedEx,2024-07-08,delivered,Credit Card
+51c6b6f9-12ec-4717-8438-2a5eae749bae,2024-05-29,433.31,3,Laptop,electronics,,,2024-11-09,FedEx,2024-11-19,shipped,Debit Card
+464152ea-9071-469d-85b0-6573a2aad654,2023-09-23,266.88,1,Bluetooth Speaker,electronics,,,2023-10-11,DHL,2023-10-19,pending,PayPal
+f6d27c35-0481-46dd-8a07-dcd7632cd493,2023-06-30,197.72,1,Dumbbells,sports,,,2024-10-20,FedEx,2024-10-22,shipped,PayPal
+e4e693bb-a8b4-4c18-83f2-846811ec032b,2023-06-21,221.93,3,Dress,fashion,0.1,2023-07-06,2024-09-11,DHL,2024-09-20,delivered,Credit Card
+fe627932-5534-4eb1-a5a7-7ea60f4b8fa8,2023-06-07,349.73,1,Makeup Brush,beauty,,,2023-10-02,UPS,2023-10-06,pending,Credit Card
+497fbaeb-1e8e-47fd-b4c5-b41699d3b689,2023-03-21,232.93,2,Shirt,fashion,,,2023-08-26,FedEx,2023-09-08,shipped,Credit Card
+a1cd0819-601d-4719-8dc4-b3d387426869,2023-05-12,415.73,2,Dress,fashion,,,2024-09-21,UPS,2024-10-03,shipped,Debit Card
+9ee30e7f-dcb9-4495-abdb-1d523bdf83e0,2023-04-27,254.19,5,Lipstick,beauty,1.8,2023-05-21,2024-10-03,UPS,2024-10-13,delivered,Debit Card
+0eb9e1d8-e4f8-4cf2-a856-b274be9cd8e9,2023-10-06,104.92,2,Dress,fashion,,,2024-01-12,DHL,2024-01-17,shipped,Credit Card
+2e925b8f-f027-468c-8509-cb3f0ac251ac,2023-06-17,321.29,2,Bookshelf,home,,,2024-05-22,UPS,2024-05-29,pending,Debit Card
+d6b14a6c-8516-439a-bc21-ddfb22b6fc39,2023-11-26,90.55,3,Running Shoes,sports,,,2024-06-09,DHL,2024-06-13,pending,Debit Card
+1d920b8b-1fc0-4e5c-a92b-0ef29002c1a8,2024-03-09,434.71,1,T-shirt,fashion,3.5,2024-04-06,2024-04-01,FedEx,2024-04-04,delivered,PayPal
+0e3454b1-f7bf-42a9-9b8c-0a0ba7a9d2be,2023-03-25,36.76,2,Scarf,fashion,1.2,2023-04-23,2024-02-06,UPS,2024-02-19,delivered,PayPal
+c68afcc4-44b3-4842-8310-48235646a171,2024-02-16,404.36,5,Makeup Brush,beauty,4.1,2024-02-21,2024-09-12,FedEx,2024-09-24,delivered,Debit Card
+5cca0450-173c-47dc-a437-269a04922cb1,2023-03-14,79.71,4,Desk,home,5.0,2023-03-22,2023-04-01,FedEx,2023-04-02,delivered,Credit Card
+24fa556d-512a-4f15-bb01-408c3a88e08d,2023-09-10,51.1,3,Perfume,beauty,3.3,2023-09-10,2023-10-04,DHL,2023-10-11,delivered,Credit Card
+6bfec940-868e-45f2-83c9-d8d36e98c39e,2024-06-15,237.87,3,Lamp,home,,,2024-09-22,FedEx,2024-10-02,shipped,Credit Card
+d2a7353f-a03d-4500-8faf-9ba74cac6162,2024-05-16,93.32,2,Cycling Helmet,sports,,,2024-12-09,UPS,2024-12-18,shipped,PayPal
+17cfb559-b117-418a-8edf-719ff2832593,2024-03-08,400.44,2,Hair Dryer,beauty,,,2024-07-25,FedEx,2024-07-25,pending,PayPal
+d9b19c8b-3c3e-4ec2-9b80-7afc2cbca056,2023-01-08,422.67,2,Hair Dryer,beauty,,,2024-07-05,DHL,2024-07-10,pending,Credit Card
+615d6e4e-e1e2-4cf0-af33-2d4de9ac339e,2023-03-27,129.76,3,Conditioner,beauty,4.2,2023-04-24,2023-07-24,FedEx,2023-07-28,delivered,Debit Card
+0db5e02a-89fd-4851-806a-ce358799643c,2023-08-06,392.3,3,Soccer Ball,sports,,,2023-08-13,UPS,2023-08-15,pending,PayPal
+3141f098-804b-4930-963f-671af4c1b48b,2023-08-14,259.85,4,Face Cream,beauty,,,2023-08-25,DHL,2023-08-25,shipped,Credit Card
+9ae2c811-680a-433a-b143-eddeb03aa109,2023-12-09,92.46,4,Hair Dryer,beauty,2.3,2023-12-18,2024-06-08,FedEx,2024-06-22,delivered,Credit Card
+0351fb87-10ee-4520-a1eb-f9217844b8ff,2023-06-30,411.37,2,Chair,home,,,2024-09-08,FedEx,2024-09-09,shipped,Credit Card
+3a3ba647-1060-4e3d-991d-5959e534a49c,2024-04-17,182.35,4,Basketball,sports,,,2024-11-15,DHL,2024-11-19,shipped,Credit Card
+6b48a692-0b79-4d98-9a2c-dfacc4dbf820,2023-07-23,98.8,2,Sweater,fashion,2.2,2023-08-11,2024-07-14,FedEx,2024-07-23,delivered,PayPal
+ed7c2bd8-c24a-4d93-b8c8-a1f2b2daba5d,2023-02-24,155.24,3,Camera,electronics,,,2023-06-26,FedEx,2023-06-30,shipped,Credit Card
+7cba6f6f-fe85-42d7-82b9-36502037c727,2024-08-05,446.9,3,Socks,fashion,,,2024-09-16,FedEx,2024-09-23,shipped,PayPal
+8dbea6a7-0e4f-4993-980a-f9784d4d43ee,2024-04-06,42.42,4,Chair,home,,,2024-08-29,UPS,2024-09-02,pending,PayPal
+f8f487ca-a5d4-428e-90fe-c8920268969c,2024-07-15,134.4,1,Golf Club,sports,,,2024-08-23,UPS,2024-09-04,pending,Credit Card
+18567937-888d-4644-afff-e4bc7b71a87e,2023-12-17,491.3,5,Body Lotion,beauty,,,2024-07-17,DHL,2024-07-29,shipped,Credit Card
+5ff47821-01a2-412c-a2b4-ef5abb97a67c,2024-07-03,363.55,5,Camera,electronics,,,2024-07-07,UPS,2024-07-21,pending,PayPal
+d8e133b8-6a7c-4a07-ba5c-62bd31df36ee,2023-08-23,22.95,2,Toaster,home,,,2023-10-27,FedEx,2023-10-31,shipped,Debit Card
+1a6e3158-702a-4254-8ded-ca4416756ebf,2023-03-27,403.57,2,Baseball Bat,sports,,,2023-03-29,UPS,2023-04-08,pending,Credit Card
+0992a316-e637-41cb-aaa4-f99882861af2,2024-01-13,305.75,1,Couch,home,,,2024-03-12,UPS,2024-03-18,pending,Debit Card
+78bc4f14-b8df-4e37-b59a-b97b19b4423f,2023-11-11,146.65,4,Bluetooth Speaker,electronics,,,2024-01-28,UPS,2024-02-08,shipped,Credit Card
+c4c0486c-0ad5-4adc-9e30-3282044b030d,2023-05-07,359.3,1,Body Lotion,beauty,,,2023-06-05,DHL,2023-06-15,pending,PayPal
+511a18f7-d533-41c1-9fa3-d359fb72dc5d,2023-06-16,420.28,1,Sneakers,fashion,,,2023-08-15,UPS,2023-08-29,shipped,PayPal
+adbe003d-857f-4f32-926b-d41b5ecad993,2024-08-01,158.3,5,Scarf,fashion,,,2024-09-01,FedEx,2024-09-05,pending,PayPal
+76aca440-70b8-4623-901d-042322894265,2023-01-04,87.62,2,Couch,home,1.6,2023-01-31,2023-12-16,DHL,2023-12-22,delivered,PayPal
