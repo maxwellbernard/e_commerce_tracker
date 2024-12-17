@@ -1,1 +1,1 @@
-# recipe_finder for CBS programming assignment
+# repsitory for Pgramming CBS class project for E-Commerce Tracker for Management
